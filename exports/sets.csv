@@ -1,7 +1,7 @@
 ﻿Game,Language,Set Name,Set Name (EN),Set Code,Manufacturer,Sport,Season,Year,Release Date,Series,Cards In Set,Cards Listed,Sources
 Pokémon TCG,German,Grundset,,BS,,,,1999,1999-01-09,Grund,102,102,tcgdex
 Pokémon TCG,German,Dschungel,,JU,,,,1999,1999-06-16,Grund,64,64,tcgdex
-Pokémon TCG,German,Wizards Black Star Promos,,basep,,,,1999,1999-07-01,Grund,53,0,tcgdex
+Pokémon TCG,German,Wizards Black Star Promos,,basep,,,,1999,1999-07-01,Grund,53,24,tcgdex
 Pokémon TCG,German,Fossil,,FO,,,,1999,1999-10-10,Grund,62,62,tcgdex
 Pokémon TCG,German,Team Rocket,,RO,,,,2000,2000-04-24,Grund,82,83,tcgdex
 Pokémon TCG,German,Neo Genesis,,N1,,,,2000,2000-12-16,Neo,111,111,tcgdex
@@ -19,7 +19,7 @@ Pokémon TCG,German,EX Feuerrot & Blattgrün,,RG,,,,2004,2004-09-01,EX,112,116,t
 Pokémon TCG,German,EX Deoxys,,DX,,,,2005,2005-02-01,EX,107,108,tcgdex
 Pokémon TCG,German,EX Smaragd,,EM,,,,2005,2005-05-09,EX,106,107,tcgdex
 Pokémon TCG,German,EX Verborgene Mächte,,UF,,,,2005,2005-08-22,EX,115,117,tcgdex
-Pokémon TCG,German,EX Verborgene Mächte Icognito,,exu,,,,2005,2005-08-22,EX,28,0,tcgdex
+Pokémon TCG,German,EX Verborgene Mächte Icognito,,exu,,,,2005,2005-08-22,EX,28,28,tcgdex
 Pokémon TCG,German,EX Delta Species,,DS,,,,2005,2005-10-31,EX,113,114,tcgdex
 Pokémon TCG,German,EX Legend Maker,,LM,,,,2006,2006-02-13,EX,92,93,tcgdex
 Pokémon TCG,German,EX Holon Phantoms,,HP,,,,2006,2006-05-03,EX,110,111,tcgdex
@@ -49,7 +49,7 @@ Pokémon TCG,German,SW Promokarten,,BWP,,,,2011,2011-04-26,Schwarz & Weiß,101,0
 Pokémon TCG,German,Aufstreben der Mächtigen,,EP,,,,2011,2011-08-31,Schwarz & Weiß,98,98,tcgdex
 Pokémon TCG,German,Königliche Siege,,NVI,,,,2011,2011-11-16,Schwarz & Weiß,101,102,tcgdex
 Pokémon TCG,German,Kommende Schicksale,,NXD,,,,2012,2012-02-08,Schwarz & Weiß,99,103,tcgdex
-Pokémon TCG,German,Erfoscher der Finsternis,,DEX,,,,2012,2012-05-09,Schwarz & Weiß,108,111,tcgdex
+Pokémon TCG,German,Erforscher der Finsternis,,DEX,,,,2012,2012-05-09,Schwarz & Weiß,108,111,tcgdex
 Pokémon TCG,German,Hoheit der Drachen,,DRX,,,,2012,2012-08-15,Schwarz & Weiß,124,128,tcgdex
 Pokémon TCG,German,Drachengruft,,DRV,,,,2012,2012-10-05,Schwarz & Weiß,20,0,tcgdex
 Pokémon TCG,German,Überschrittene Schwellen,,BCR,,,,2012,2012-11-07,Schwarz & Weiß,149,153,tcgdex
@@ -68,12 +68,12 @@ Pokémon TCG,German,Drachenleuchten,,ROS,,,,2015,2015-05-06,XY,108,110,tcgdex
 Pokémon TCG,German,Ewiger Anfang,,AOR,,,,2015,2015-08-12,XY,98,100,tcgdex
 Pokémon TCG,German,TURBOstart,,BKT,,,,2015,2015-11-04,XY,162,164,tcgdex
 Pokémon TCG,German,TURBOfieber,,BKP,,,,2016,2016-02-03,XY,122,123,tcgdex
-Pokémon TCG,German,Generationen,,GEN,,,,2016,2016-02-22,XY,83,0,tcgdex
+Pokémon TCG,German,Generationen,,GEN,,,,2016,2016-02-22,XY,83,115,tcgdex
 Pokémon TCG,German,Schicksalsschmiede,,FCO,,,,2016,2016-05-02,XY,124,125,tcgdex
 Pokémon TCG,German,Dampfkessel,,STS,,,,2016,2016-08-03,XY,114,116,tcgdex
 Pokémon TCG,German,Evolution,,EVO,,,,2016,2016-11-02,XY,108,113,tcgdex
 Pokémon TCG,German,SM Promokarten,,SMP,,,,2017,2017-02-03,Sonne & Mond,248,240,tcgdex
-Pokémon TCG,German,Sonne & Mond,,SUM,,,,2017,2017-02-03,Sonne & Mond,149,163,tcgdex
+Pokémon TCG,German,Sonne & Mond,,SUM,,,,2017,2017-02-03,Sonne & Mond,149,172,tcgdex
 Pokémon TCG,German,Stunde der Wächter,,GRI,,,,2017,2017-05-05,Sonne & Mond,145,169,tcgdex
 Pokémon TCG,German,Nacht in Flammen,,BUS,,,,2017,2017-08-04,Sonne & Mond,147,169,tcgdex
 Pokémon TCG,German,Schimmernde Legenden,,SLG,,,,2017,2017-10-06,Sonne & Mond,73,78,tcgdex
@@ -87,8 +87,8 @@ Pokémon TCG,German,Teams Sind Trumpf,,TEU,,,,2019,2019-01-31,Sonne & Mond,181,1
 Pokémon TCG,German,Meisterdetektiv Pikachu,,DET,,,,2019,2019-03-29,Sonne & Mond,18,18,tcgdex
 Pokémon TCG,German,Kräfte im Einklang,,UNB,,,,2019,2019-05-03,Sonne & Mond,214,234,tcgdex
 Pokémon TCG,German,Bund der Gleichgesinnten,,UNM,,,,2019,2019-08-02,Sonne & Mond,236,258,tcgdex
-Pokémon TCG,German,Verborgenes Schicksal,,HIF,,,,2019,2019-08-23,Sonne & Mond,68,0,tcgdex
-Pokémon TCG,German,Verborgenes Schicksal Glitzer-Tresor,,sma,,,,2019,2019-08-23,Sonne & Mond,94,0,tcgdex
+Pokémon TCG,German,Verborgenes Schicksal,,HIF,,,,2019,2019-08-23,Sonne & Mond,68,69,tcgdex
+Pokémon TCG,German,Verborgenes Schicksal Glitzer-Tresor,,sma,,,,2019,2019-08-23,Sonne & Mond,94,94,tcgdex
 Pokémon TCG,German,Welten im Wandel,,CEC,,,,2019,2019-11-01,Sonne & Mond,236,271,tcgdex
 Pokémon TCG,German,SCSC Promokarten,,swshp,,,,2019,2019-11-15,Schwert & Schild,307,299,tcgdex
 Pokémon TCG,German,Schwert & Schild,,SSH,,,,2020,2020-02-07,Schwert & Schild,202,216,tcgdex
@@ -103,7 +103,7 @@ Pokémon TCG,German,Schaurige Herrschaft,,CRE,,,,2021,2021-06-18,Schwert & Schil
 Pokémon TCG,German,Drachenwandel,,EVS,,,,2021,2021-08-27,Schwert & Schild,203,237,tcgdex
 Pokémon TCG,German,Celebrations,,CEL,,,,2021,2021-10-08,Schwert & Schild,25,25,tcgdex
 Pokémon TCG,German,Celebrations Klassische Kollektion,,CEL:CC,,,,2021,2021-10-08,Schwert & Schild,25,0,tcgdex
-Pokémon TCG,German,Fusions Angriff,,FST,,,,2021,2021-11-12,Schwert & Schild,264,284,tcgdex
+Pokémon TCG,German,Fusionsangriff,,FST,,,,2021,2021-11-12,Schwert & Schild,264,284,tcgdex
 Pokémon TCG,German,Strahlende Sterne,,BRS,,,,2022,2022-02-25,Schwert & Schild,172,186,tcgdex
 Pokémon TCG,German,Strahlende Sterne Trainer-Galerie,,BRS:TG,,,,2022,2022-02-25,Schwert & Schild,30,30,tcgdex
 Pokémon TCG,German,Astralglanz,,ASR,,,,2022,2022-05-27,Schwert & Schild,189,216,tcgdex
@@ -127,7 +127,7 @@ Pokémon TCG,German,Gewalten der Zeit,,TEF,,,,2024,2024-03-22,Karmesin & Purpur,
 Pokémon TCG,German,Maskerade im Zwielicht,,TWM,,,,2024,2024-05-24,Karmesin & Purpur,167,226,tcgdex
 Pokémon TCG,German,Nebel der Sagen,,SFA,,,,2024,2024-08-02,Karmesin & Purpur,64,99,tcgdex
 Pokémon TCG,German,Stellarkrone,,SCR,,,,2024,2024-09-13,Karmesin & Purpur,142,175,tcgdex
-Pokémon TCG,German,PROMO-A,,P-A,,,,2024,2024-10-30,Pokémon‑Sammelkartenspiel‑Pocket,0,73,tcgdex
+Pokémon TCG,German,PROMO-A,,P-A,,,,2024,2024-10-30,Pokémon‑Sammelkartenspiel‑Pocket,0,99,tcgdex
 Pokémon TCG,German,Unschlagbare Gene,,A1,,,,2024,2024-10-30,Pokémon‑Sammelkartenspiel‑Pocket,226,286,tcgdex
 Pokémon TCG,German,Stürmische Funken,,SSP,,,,2024,2024-11-08,Karmesin & Purpur,191,252,tcgdex
 Pokémon TCG,German,Mysteriöse Insel,,A1a,,,,2024,2024-12-17,Pokémon‑Sammelkartenspiel‑Pocket,68,86,tcgdex
@@ -142,7 +142,7 @@ Pokémon TCG,German,Schwarze Blitze,,BLK,,,,2025,2025-07-17,Karmesin & Purpur,86
 Pokémon TCG,German,Weiße Flammen,,WHT,,,,2025,2025-07-17,Karmesin & Purpur,86,173,tcgdex
 Pokémon TCG,German,Verborgene Quelle,,A4a,,,,2025,2025-08-28,Pokémon‑Sammelkartenspiel‑Pocket,71,0,tcgdex
 Pokémon TCG,German,Mega-Entwicklung Energie,,MEE,,,,2025,2025-09-25,Mega-Entwicklung,8,8,tcgdex
-Pokémon TCG,German,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Mega-Entwicklung,0,60,tcgdex
+Pokémon TCG,German,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Mega-Entwicklung,0,88,tcgdex
 Pokémon TCG,German,Mega-Entwicklung,,MEG,,,,2025,2025-09-26,Mega-Entwicklung,132,188,tcgdex
 Pokémon TCG,German,Fatale Flammen,,PFL,,,,2025,2025-11-14,Mega-Entwicklung,94,130,tcgdex
 Pokémon TCG,German,Feuerrote Flammen,,B1a,,,,2025,2025-12-17,Pokémon‑Sammelkartenspiel‑Pocket,69,0,tcgdex
@@ -184,7 +184,7 @@ Pokémon TCG,English,Legendary Collection,Legendary Collection,LC,,,,2002,2002-0
 Pokémon TCG,English,Sample,,sp,,,,2002,2002-08-01,E-Card,10,0,tcgdex
 Pokémon TCG,English,Expedition Base Set,Expedition Base Set,EX,,,,2002,2002-09-15,e-Card Series,165,165,"database.xlsx,tcgdex"
 Pokémon TCG,English,Best of Game,Best of Game,BG,,,,2002,2002-12-01,Other,9,9,"database.xlsx,tcgdex"
-Pokémon TCG,English,Aquapolis,Aquapolis,AQ,,,,2003,2003-01-15,e-Card Series,147,181,"database.xlsx,tcgdex"
+Pokémon TCG,English,Aquapolis,Aquapolis,AQ,,,,2003,2003-01-15,e-Card Series,147,182,"database.xlsx,tcgdex"
 Pokémon TCG,English,Advanced,Advanced,,,,,2003,2003-05-01,Topps Series,,0,database.xlsx
 Pokémon TCG,English,Skyridge,Skyridge,SK,,,,2003,2003-05-12,e-Card Series,144,182,"database.xlsx,tcgdex"
 Pokémon TCG,English,EX Ruby & Sapphire,EX Ruby & Sapphire,RS,,,,2003,2003-06-18,EX Series,109,109,"database.xlsx,tcgdex"
@@ -270,8 +270,8 @@ Pokémon TCG,English,2010 Energies,2010 Energies,EN10,,,,2010,2010-01-01,Unnumbe
 Pokémon TCG,English,HeartGold & SoulSilver Promos,HeartGold & SoulSilver Promos,HSP,,,,2010,2010-02-01,HeartGold & SoulSilver Series,,0,database.xlsx
 Pokémon TCG,English,HeartGold & SoulSilver,HeartGold & SoulSilver,HS,,,,2010,2010-02-10,HeartGold & SoulSilver Series,123,124,"database.xlsx,tcgdex"
 Pokémon TCG,English,HGSS Black Star Promos,,hgssp,,,,2010,2010-02-11,HeartGold & SoulSilver,25,25,tcgdex
-Pokémon TCG,English,HGSS Trainer Kit (Gyarados),HGSS Trainer Kit (Gyarados),TK4G,,,,2010,2010-05-01,Trainer & Deck Kits,30,1,"database.xlsx,tcgdex"
-Pokémon TCG,English,HGSS Trainer Kit (Raichu),HGSS Trainer Kit (Raichu),TK4R,,,,2010,2010-05-01,Trainer & Deck Kits,30,1,"database.xlsx,tcgdex"
+Pokémon TCG,English,HGSS Trainer Kit (Gyarados),HGSS Trainer Kit (Gyarados),TK4G,,,,2010,2010-05-01,Trainer & Deck Kits,30,30,"database.xlsx,tcgdex"
+Pokémon TCG,English,HGSS Trainer Kit (Raichu),HGSS Trainer Kit (Raichu),TK4R,,,,2010,2010-05-01,Trainer & Deck Kits,30,30,"database.xlsx,tcgdex"
 Pokémon TCG,English,Unleashed,Unleashed,UL,,,,2010,2010-05-12,HeartGold & SoulSilver Series,95,96,"database.xlsx,tcgdex"
 Pokémon TCG,English,Undaunted,Undaunted,UD,,,,2010,2010-08-18,HeartGold & SoulSilver Series,90,91,"database.xlsx,tcgdex"
 Pokémon TCG,English,WC Deck 2010 (Boltevoir),WC Deck 2010 (Boltevoir),,,,,2010,2010-11-01,World Championships Decks,,0,database.xlsx
@@ -357,7 +357,7 @@ Pokémon TCG,English,WC Deck 2016 (Ninja Blitz),WC Deck 2016 (Ninja Blitz),,,,,2
 Pokémon TCG,English,Evolutions,Evolutions,EVO,,,,2016,2016-11-02,XY Series,108,113,"database.xlsx,tcgdex"
 Pokémon TCG,English,2017 Energies,2017 Energies,EN17,,,,2017,2017-02-03,Unnumbered Energies,,0,database.xlsx
 Pokémon TCG,English,Sun & Moon,Sun & Moon,SUM,,,,2017,2017-02-03,Sun & Moon Series,149,172,"database.xlsx,tcgdex"
-Pokémon TCG,English,SM Trainer Kit (Alolan Raichu),SM Trainer Kit (Alolan Raichu),TK10R,,,,2017,2017-04-21,Trainer & Deck Kits,30,19,"database.xlsx,tcgdex"
+Pokémon TCG,English,SM Trainer Kit (Alolan Raichu),SM Trainer Kit (Alolan Raichu),TK10R,,,,2017,2017-04-21,Trainer & Deck Kits,30,30,"database.xlsx,tcgdex"
 Pokémon TCG,English,SM Trainer Kit (Lycanroc),SM Trainer Kit (Lycanroc),TK10L,,,,2017,2017-04-21,Trainer & Deck Kits,30,18,"database.xlsx,tcgdex"
 Pokémon TCG,English,Guardians Rising,Guardians Rising,GRI,,,,2017,2017-05-05,Sun & Moon Series,145,169,"database.xlsx,tcgdex"
 Pokémon TCG,English,McDonald's Collection 2017,McDonald's Collection 2017,M17,,,,2017,2017-08-03,McDonald's Series,12,12,"database.xlsx,tcgdex"
@@ -389,7 +389,7 @@ Pokémon TCG,English,Hidden Fates (Shiny Vault),Hidden Fates (Shiny Vault),HIF,,
 Pokémon TCG,English,McDonald's Collection 2019,McDonald's Collection 2019,M19,,,,2019,2019-10-15,McDonald's Series,12,12,"database.xlsx,tcgdex"
 Pokémon TCG,English,McDonald's Collection 2019 (French),McDonald's Collection 2019 (French),M19F,,,,2019,2019-10-30,McDonald's Series,,0,database.xlsx
 Pokémon TCG,English,Cosmic Eclipse,Cosmic Eclipse,CEC,,,,2019,2019-11-01,Sun & Moon Series,236,271,"database.xlsx,tcgdex"
-Pokémon TCG,English,Sword & Shield Promos,Sword & Shield Promos,SSP,,,,2019,2019-11-15,Sword & Shield Series,307,302,"database.xlsx,tcgdex"
+Pokémon TCG,English,Sword & Shield Promos,Sword & Shield Promos,SSP,,,,2019,2019-11-15,Sword & Shield Series,307,305,"database.xlsx,tcgdex"
 Pokémon TCG,English,WC Deck 2019 (Fire Box),WC Deck 2019 (Fire Box),,,,,2019,2019-11-22,World Championships Decks,,0,database.xlsx
 Pokémon TCG,English,WC Deck 2019 (Mind Blown),WC Deck 2019 (Mind Blown),,,,,2019,2019-11-22,World Championships Decks,,0,database.xlsx
 Pokémon TCG,English,WC Deck 2019 (Perfection),WC Deck 2019 (Perfection),,,,,2019,2019-11-22,World Championships Decks,,0,database.xlsx
@@ -500,7 +500,7 @@ Pokémon TCG,English,Wisdom of Sea and Sky,,A4,,,,2025,2025-07-30,Pokémon TCG P
 Pokémon TCG,English,Play! Pokémon Prize Pack Series Seven,Play! Pokémon Prize Pack Series Seven,,,,,2025,2025-08-14,Play! Pokémon Series,,0,database.xlsx
 Pokémon TCG,English,Holiday Calendar 2025,Holiday Calendar 2025,,,,,2025,2025-08-22,Other,,0,database.xlsx
 Pokémon TCG,English,Secluded Springs,,A4a,,,,2025,2025-08-28,Pokémon TCG Pocket,71,105,tcgdex
-Pokémon TCG,English,Mega Evolution Promos,Mega Evolution Promos,MEP,,,,2025,2025-09-13,Mega Evolution Series,0,60,"database.xlsx,tcgdex"
+Pokémon TCG,English,Mega Evolution Promos,Mega Evolution Promos,MEP,,,,2025,2025-09-13,Mega Evolution Series,0,89,"database.xlsx,tcgdex"
 Pokémon TCG,English,Mega Evolution,Mega Evolution,MEG,,,,2025,2025-09-26,Mega Evolution Series,132,188,"database.xlsx,tcgdex"
 Pokémon TCG,English,Mega Evolution Energies,Mega Evolution Energies,MEE,,,,2025,2025-09-26,Mega Evolution Series,8,8,"database.xlsx,tcgdex"
 Pokémon TCG,English,Mega Rising,,B1,,,,2025,2025-10-30,Pokémon TCG Pocket,226,331,tcgdex
@@ -676,7 +676,7 @@ Pokémon TCG,Spanish,Fulgor Negro,,BLK,,,,2025,2025-07-17,Escarlata y Púrpura,8
 Pokémon TCG,Spanish,Llama Blanca,,WHT,,,,2025,2025-07-17,Escarlata y Púrpura,86,173,tcgdex
 Pokémon TCG,Spanish,Manantial Oculto,,A4a,,,,2025,2025-08-28,Juego de Cartas Coleccionables Pokémon Pocket,71,0,tcgdex
 Pokémon TCG,Spanish,Megaevolución Energía,,MEE,,,,2025,2025-09-25,Megaevolución,8,8,tcgdex
-Pokémon TCG,Spanish,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Megaevolución,0,60,tcgdex
+Pokémon TCG,Spanish,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Megaevolución,0,88,tcgdex
 Pokémon TCG,Spanish,Megaevolución,,MEG,,,,2025,2025-09-26,Megaevolución,132,188,tcgdex
 Pokémon TCG,Spanish,Fuegos Fantasmales,,PFL,,,,2025,2025-11-14,Megaevolución,94,130,tcgdex
 Pokémon TCG,Spanish,Fuego Carmesí,,B1a,,,,2025,2025-12-17,Juego de Cartas Coleccionables Pokémon Pocket,69,0,tcgdex
@@ -875,9 +875,9 @@ Pokémon TCG,French,Foudre Noire,,BLK,,,,2025,2025-07-17,Écarlate et Violet,86,
 Pokémon TCG,French,Sagesse Entre Ciel et Mer,,A4,,,,2025,2025-07-30,Jeu de Cartes à Collectionner Pokémon Pocket,161,241,tcgdex
 Pokémon TCG,French,Source Secrète,,A4a,,,,2025,2025-08-28,Jeu de Cartes à Collectionner Pokémon Pocket,71,105,tcgdex
 Pokémon TCG,French,Méga-Évolution Énergie,,MEE,,,,2025,2025-09-25,Méga-Évolution,8,8,tcgdex
-Pokémon TCG,French,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Méga-Évolution,0,60,tcgdex
+Pokémon TCG,French,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Méga-Évolution,0,88,tcgdex
 Pokémon TCG,French,Méga-Évolution,,MEG,,,,2025,2025-09-26,Méga-Évolution,132,188,tcgdex
-Pokémon TCG,French,Méga-Ascension,,B1,,,,2025,2025-10-30,Jeu de Cartes à Collectionner Pokémon Pocket,226,0,tcgdex
+Pokémon TCG,French,Méga-Ascension,,B1,,,,2025,2025-10-30,Jeu de Cartes à Collectionner Pokémon Pocket,226,331,tcgdex
 Pokémon TCG,French,Flammes Fantasmagoriques,,PFL,,,,2025,2025-11-14,Méga-Évolution,94,130,tcgdex
 Pokémon TCG,French,Embrasement Écarlate,,B1a,,,,2025,2025-12-17,Jeu de Cartes à Collectionner Pokémon Pocket,69,0,tcgdex
 Pokémon TCG,French,Parade Onirique,,B2,,,,2026,2026-01-29,Jeu de Cartes à Collectionner Pokémon Pocket,155,0,tcgdex
@@ -957,7 +957,7 @@ Pokémon TCG,Indonesian,Kilat Rasi,,SV8s,,,,2024,2024-11-29,Scarlet & Violet,182
 Pokémon TCG,Indonesian,Festival Terastal ex,,SV8a,,,,2025,2025-01-31,Scarlet & Violet,187,237,tcgdex
 Pokémon TCG,Indonesian,Ikatan Takdir,,SV9s,,,,2025,2025-04-18,Scarlet & Violet,139,185,tcgdex
 Pokémon TCG,Italian,Set Base,,BS,,,,1999,1999-01-09,Originale,102,102,tcgdex
-Pokémon TCG,Italian,Jungle,,JU,,,,1999,1999-06-16,Originale,64,0,tcgdex
+Pokémon TCG,Italian,Jungle,,JU,,,,1999,1999-06-16,Originale,64,64,tcgdex
 Pokémon TCG,Italian,Wizards Black Star Promos,,basep,,,,1999,1999-07-01,Originale,53,0,tcgdex
 Pokémon TCG,Italian,Carte Promo Wizards,,wp,,,,1999,1999-09-01,Originale,7,0,tcgdex
 Pokémon TCG,Italian,Fossil,,FO,,,,1999,1999-10-10,Originale,62,0,tcgdex
@@ -1030,6 +1030,7 @@ Pokémon TCG,Italian,Tesoro dei Draghi,,DRV,,,,2012,2012-10-05,Nero e Bianco,20,
 Pokémon TCG,Italian,Confini Varcati,,BCR,,,,2012,2012-11-07,Nero e Bianco,149,153,tcgdex
 Pokémon TCG,Italian,Uragano Plasma,,PLS,,,,2013,2013-02-06,Nero e Bianco,135,138,tcgdex
 Pokémon TCG,Italian,Glaciazione Plasma,,PLF,,,,2013,2013-05-08,Nero e Bianco,116,122,tcgdex
+Pokémon TCG,Italian,Esplosione Plasma,,PLB,,,,2013,2013-08-14,Nero e Bianco,101,105,tcgdex
 Pokémon TCG,Italian,XY Promo,,XYP,,,,2013,2013-10-12,XY,211,0,tcgdex
 Pokémon TCG,Italian,Benvenuti a Kalos,,KSS,,,,2013,2013-11-08,XY,39,39,tcgdex
 Pokémon TCG,Italian,Carta Alternatica A Gialla,,xya,,,,2014,2014-02-05,XY,6,0,tcgdex
@@ -1136,9 +1137,9 @@ Pokémon TCG,Italian,Fuoco Bianco,,WHT,,,,2025,2025-07-17,Scarlatto e Violetto,8
 Pokémon TCG,Italian,Luce Nera,,BLK,,,,2025,2025-07-17,Scarlatto e Violetto,86,172,tcgdex
 Pokémon TCG,Italian,Sorgenti Recondite,,A4a,,,,2025,2025-08-28,Gioco di Carte Collezionabili Pokémon Pocket,71,0,tcgdex
 Pokémon TCG,Italian,Megaevoluzione Energia,,MEE,,,,2025,2025-09-25,Megaevoluzione,8,8,tcgdex
-Pokémon TCG,Italian,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Megaevoluzione,0,60,tcgdex
+Pokémon TCG,Italian,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Megaevoluzione,0,88,tcgdex
 Pokémon TCG,Italian,Megaevoluzione,,MEG,,,,2025,2025-09-26,Megaevoluzione,132,188,tcgdex
-Pokémon TCG,Italian,Flamme Spettrali,,PFL,,,,2025,2025-11-14,Megaevoluzione,94,130,tcgdex
+Pokémon TCG,Italian,Fiamme Spettrali,,PFL,,,,2025,2025-11-14,Megaevoluzione,94,130,tcgdex
 Pokémon TCG,Italian,Fiamme Cremisi,,B1a,,,,2025,2025-12-17,Gioco di Carte Collezionabili Pokémon Pocket,69,0,tcgdex
 Pokémon TCG,Italian,Parata Fantasmagorica,,B2,,,,2026,2026-01-29,Gioco di Carte Collezionabili Pokémon Pocket,155,0,tcgdex
 Pokémon TCG,Italian,Ascesa Eroica,,ASC,,,,2026,2026-01-30,Megaevoluzione,217,295,tcgdex
@@ -1401,7 +1402,7 @@ Pokémon TCG,Japanese,M Rayquaza-EX Mega Battle Deck,M Rayquaza-EX Mega Battle D
 Pokémon TCG,Japanese,エメラルドブレイク,Emerald Break,XY6,,,,2015,2015-03-14,XY Era,78,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,バンデットリング,Bandit Ring,XY7,,,,2015,2015-06-20,XY Era,81,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Emboar-EX vs Togekiss-EX Battle Starter Set,Emboar-EX vs Togekiss-EX Battle Starter Set,XYE,,,,2015,2015-07-18,XY Era,,0,database.xlsx
-Pokémon TCG,Japanese,伝説キラコレクション,Legendary Shine Collection,CP2,,,,2015,2015-07-18,XY Era,27,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,伝説キラコレクション,Legendary Shine Collection,CP2,,,,2015,2015-07-18,XY Era,27,27,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,M Master Deck Build Box Power Style,M Master Deck Build Box Power Style,MMB-P,,,,2015,2015-08-07,XY Era,,0,database.xlsx
 Pokémon TCG,Japanese,M Master Deck Build Box Speed Style,M Master Deck Build Box Speed Style,MMB-S,,,,2015,2015-08-07,XY Era,,0,database.xlsx
 Pokémon TCG,Japanese,Blue Shock,Blue Shock,XY8-Bb,,,,2015,2015-09-26,XY Era,,0,database.xlsx
@@ -1427,54 +1428,54 @@ Pokémon TCG,Japanese,ポケットモンスターカードゲーム 拡張パッ
 Pokémon TCG,Japanese,ピカチュウと新しい仲間たち,Pikachu's New Friends,SM0,,,,2016,2016-11-18,Sun & Moon Era,4,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,"Decidueye-GX, Incineroar-GX & Primarina-GX Starter Sets","Decidueye-GX, Incineroar-GX & Primarina-GX Starter Sets",SMA,,,,2016,2016-12-09,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,Premium Trainer Box,Premium Trainer Box,SMB,,,,2016,2016-12-09,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,コレクションサン,Collection Sun,SM1S,,,,2016,2016-12-09,Sun & Moon Era,60,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,コレクションムーン,Collection Moon,SM1M,,,,2016,2016-12-09,Sun & Moon Era,60,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,コレクションサン,Collection Sun,SM1S,,,,2016,2016-12-09,Sun & Moon Era,60,73,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,コレクションムーン,Collection Moon,SM1M,,,,2016,2016-12-09,Sun & Moon Era,60,73,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Rockruff Full Power Deck,Rockruff Full Power Deck,SMP1,,,,2016,2016-12-15,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,Sun & Moon Enhanced Expansion Pack,Sun & Moon Enhanced Expansion Pack,SM1,,,,2017,2017-01-27,Sun & Moon Era,,0,database.xlsx
+Pokémon TCG,Japanese,サン＆ムーン,Sun & Moon Enhanced Expansion Pack,SM1,,,,2017,2017-01-27,Sun & Moon Era,51,68,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Tapu Bulu-GX Enhanced Starter Set,Tapu Bulu-GX Enhanced Starter Set,SMC,,,,2017,2017-03-17,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,アローラの月光,Alolan Moonlight,SM2L,,,,2017,2017-03-17,Sun & Moon Era,50,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,キミを待つ島々,Islands Await You,SM2K,,,,2017,2017-03-17,Sun & Moon Era,50,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,アローラの月光,Alolan Moonlight,SM2L,,,,2017,2017-03-17,Sun & Moon Era,50,62,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,キミを待つ島々,Islands Await You,SM2K,,,,2017,2017-03-17,Sun & Moon Era,50,61,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Ash vs Team Rocket Battle Set,Ash vs Team Rocket Battle Set,SMD,,,,2017,2017-04-21,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,Facing a New Trial,Facing a New Trial,SM2,,,,2017,2017-04-21,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,The Best of XY,The Best of XY,XY,,,,2017,2017-04-21,XY Era,,0,database.xlsx
-Pokémon TCG,Japanese,光を喰らう闇,Darkness that Consumes Light,SM3N,,,,2017,2017-06-16,Sun & Moon Era,51,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,闘う虹を見たか,To Have Seen the Battle Rainbow,SM3H,,,,2017,2017-06-16,Sun & Moon Era,51,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,Shining Legends,Shining Legends,SM3,,,,2017,2017-07-15,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,覚醒の勇者,Awakened Heroes,SM4S,,,,2017,2017-09-15,Sun & Moon Era,50,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,超次元の暴獣,Ultradimensional Beasts,SM4A,,,,2017,2017-09-15,Sun & Moon Era,50,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,GX Battle Boost,GX Battle Boost,SM4,,,,2017,2017-10-20,Sun & Moon Era,,0,database.xlsx
+Pokémon TCG,Japanese,新たなる試練の向こう,,SM2p,,,,2017,2017-04-21,サン＆ムーン,49,65,tcgdex
+Pokémon TCG,Japanese,光を喰らう闇,Darkness that Consumes Light,SM3N,,,,2017,2017-06-16,Sun & Moon Era,51,64,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,闘う虹を見たか,To Have Seen the Battle Rainbow,SM3H,,,,2017,2017-06-16,Sun & Moon Era,51,64,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ひかる伝説,Shining Legends,SM3,,,,2017,2017-07-15,Sun & Moon Era,72,82,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,覚醒の勇者,Awakened Heroes,SM4S,,,,2017,2017-09-15,Sun & Moon Era,50,62,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,超次元の暴獣,Ultradimensional Beasts,SM4A,,,,2017,2017-09-15,Sun & Moon Era,50,61,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,GXバトルブースト,GX Battle Boost,SM4,,,,2017,2017-10-20,Sun & Moon Era,114,125,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Solgaleo-GX & Lunala-GX Legendary Starter Set,Solgaleo-GX & Lunala-GX Legendary Starter Set,SME,,,,2017,2017-11-10,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,Ultra Sun & Ultra Moon Premium Trainer Box,Ultra Sun & Ultra Moon Premium Trainer Box,SMF,,,,2017,2017-12-08,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,ウルトラサン,Ultra Sun,SM5S,,,,2017,2017-12-08,Sun & Moon Era,66,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ウルトラムーン,Ultra Moon,SM5M,,,,2017,2017-12-08,Sun & Moon Era,66,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,Ultra Force,Ultra Force,SM5,,,,2018,2018-01-19,Sun & Moon Era,,0,database.xlsx
+Pokémon TCG,Japanese,ウルトラサン,Ultra Sun,SM5S,,,,2017,2017-12-08,Sun & Moon Era,66,78,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ウルトラムーン,Ultra Moon,SM5M,,,,2017,2017-12-08,Sun & Moon Era,66,78,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ウルトラフォース,Ultra Force,SM5,,,,2018,2018-01-19,Sun & Moon Era,50,63,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Ultra Sun & Ultra Moon Deck Build Boxes,Ultra Sun & Ultra Moon Deck Build Boxes,SMG,,,,2018,2018-02-16,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,禁断の光,Forbidden Light,SM6,,,,2018,2018-03-02,Sun & Moon Era,94,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ドラゴンストーム,Dragon Storm,SM6a,,,,2018,2018-04-06,Sun & Moon Era,53,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,チャンピオンロード,Champion Road,SM6b,,,,2018,2018-05-03,Sun & Moon Era,66,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,裂空のカリスマ,Sky-Splitting Charisma,SM7,,,,2018,2018-06-01,Sun & Moon Era,96,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,迅雷スパーク,Thunderclap Spark,SM7a,,,,2018,2018-07-06,Sun & Moon Era,50,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,禁断の光,Forbidden Light,SM6,,,,2018,2018-03-02,Sun & Moon Era,94,110,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ドラゴンストーム,Dragon Storm,SM6a,,,,2018,2018-04-06,Sun & Moon Era,53,66,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,チャンピオンロード,Champion Road,SM6b,,,,2018,2018-05-03,Sun & Moon Era,66,86,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,裂空のカリスマ,Sky-Splitting Charisma,SM7,,,,2018,2018-06-01,Sun & Moon Era,96,112,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,迅雷スパーク,Thunderclap Spark,SM7a,,,,2018,2018-07-06,Sun & Moon Era,50,73,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,GX Starter Decks,GX Starter Decks,SMH,,,,2018,2018-07-13,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,フェアリーライズ,Fairy Rise,SM7b,,,,2018,2018-08-03,Sun & Moon Era,50,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,超爆インパクト,Super-Burst Impact,SM8,,,,2018,2018-09-07,Sun & Moon Era,95,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ダークオーダー,Dark Order,SM8a,,,,2018,2018-10-05,Sun & Moon Era,52,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,GXウルトラシャイニー,GX Ultra Shiny,SM8b,,,,2018,2018-11-02,Sun & Moon Era,150,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,フェアリーライズ,Fairy Rise,SM7b,,,,2018,2018-08-03,Sun & Moon Era,50,63,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,超爆インパクト,Super-Burst Impact,SM8,,,,2018,2018-09-07,Sun & Moon Era,95,111,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ダークオーダー,Dark Order,SM8a,,,,2018,2018-10-05,Sun & Moon Era,52,65,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,GXウルトラシャイニー,GX Ultra Shiny,SM8b,,,,2018,2018-11-02,Sun & Moon Era,150,250,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,"Flareon-GX, Vaporeon-GX & Jolteon-GX Starter Sets","Flareon-GX, Vaporeon-GX & Jolteon-GX Starter Sets",SMI,,,,2018,2018-11-23,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,Tag Team GX Premium Trainer Box,Tag Team GX Premium Trainer Box,SMJ,,,,2018,2018-12-07,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,タッグボルト,Tag Bolt,SM9,,,,2018,2018-12-07,Sun & Moon Era,95,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ナイトユニゾン,Night Unison,SM9a,,,,2019,2019-01-11,Sun & Moon Era,55,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,タッグボルト,Tag Bolt,SM9,,,,2018,2018-12-07,Sun & Moon Era,95,118,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ナイトユニゾン,Night Unison,SM9a,,,,2019,2019-01-11,Sun & Moon Era,55,70,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Trainer Battle Decks,Trainer Battle Decks,SMK,,,,2019,2019-01-25,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,フルメタルウォール,Full Metal Wall,SM9b,,,,2019,2019-02-01,Sun & Moon Era,54,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,フルメタルウォール,Full Metal Wall,SM9b,,,,2019,2019-02-01,Sun & Moon Era,54,69,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Tag Team GX Deck Build Box,Tag Team GX Deck Build Box,SMN,,,,2019,2019-03-01,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,ダブルブレイズ,Double Blaze,SM10,,,,2019,2019-03-01,Sun & Moon Era,95,116,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Sun & Moon Family Pokémon Card Game,Sun & Moon Family Pokémon Card Game,SML,,,,2019,2019-03-15,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,ジージーエンド,GG End,SM10a,,,,2019,2019-04-05,Sun & Moon Era,54,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,スカイレジェンド,Sky Legend,SM10b,,,,2019,2019-04-26,Sun & Moon Era,56,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ジージーエンド,GG End,SM10a,,,,2019,2019-04-05,Sun & Moon Era,54,69,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,スカイレジェンド,Sky Legend,SM10b,,,,2019,2019-04-26,Sun & Moon Era,56,69,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,名探偵ピカチュウ,Great Detective Pikachu,SMP2,,,,2019,2019-04-26,Sun & Moon Era,24,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,Miracle Twin,Miracle Twin,SM11,,,,2019,2019-05-31,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,Tag Team GX Starter Sets,Tag Team GX Starter Sets,SMM,,,,2019,2019-05-31,Sun & Moon Era,,0,database.xlsx
-Pokémon TCG,Japanese,ミラクルツイン,,sn11,,,,2019,2019-05-31,サン＆ムーン,94,0,tcgdex
-Pokémon TCG,Japanese,リミックスバウト,Remix Bout,SM11a,,,,2019,2019-07-05,Sun & Moon Era,64,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ミラクルツイン,Miracle Twin,SM11,,,,2019,2019-05-31,Sun & Moon Era,94,115,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,リミックスバウト,Remix Bout,SM11a,,,,2019,2019-07-05,Sun & Moon Era,64,80,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,ドリームリーグ,Dream League,SM11b,,,,2019,2019-08-02,Sun & Moon Era,49,75,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,オルタージェネシス,Alter Genesis,SM12,,,,2019,2019-09-06,Sun & Moon Era,95,117,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Extra Regulation Box,Extra Regulation Box,,,,,2019,2019-10-04,Sun & Moon Era,,0,database.xlsx
@@ -1503,26 +1504,26 @@ Pokémon TCG,Japanese,Blastoise Starter Set VMAX,Blastoise Starter Set VMAX,SEK,
 Pokémon TCG,Japanese,Charizard Starter Set VMAX 2,Charizard Starter Set VMAX 2,SC2,,,,2020,2020-12-04,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Venusaur Starter Set VMAX,Venusaur Starter Set VMAX,SEF,,,,2020,2020-12-04,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Single Strike & Rapid Strike Premium Trainer Boxes,Single Strike & Rapid Strike Premium Trainer Boxes,SF,,,,2021,2021-01-22,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,一撃マスター,Single Strike Master,S5I,,,,2021,2021-01-22,Sword & Shield Era,70,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,一撃マスター,Single Strike Master,S5I,,,,2021,2021-01-22,Sword & Shield Era,70,91,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,連撃マスター,Rapid Strike Master,S5R,,,,2021,2021-01-22,Sword & Shield Era,70,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,双璧のファイター,Matchless Fighters,S5a,,,,2021,2021-03-19,Sword & Shield Era,70,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Silver Lance & Jet-Black Spirit Jumbo Pack Set,Silver Lance & Jet-Black Spirit Jumbo Pack Set,SP3,,,,2021,2021-04-23,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,漆黒のガイスト,Jet-Black Spirit,S6K,,,,2021,2021-04-23,Sword & Shield Era,70,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,白銀のランス,Silver Lance,S6H,,,,2021,2021-04-23,Sword & Shield Era,70,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,漆黒のガイスト,Jet-Black Spirit,S6K,,,,2021,2021-04-23,Sword & Shield Era,70,95,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,白銀のランス,Silver Lance,S6H,,,,2021,2021-04-23,Sword & Shield Era,70,95,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Eevee Heroes VMAX Special Set,Eevee Heroes VMAX Special Set,SP4,,,,2021,2021-05-28,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Gengar VMAX High-Class Deck,Gengar VMAX High-Class Deck,SGG,,,,2021,2021-05-28,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Inteleon VMAX High-Class Deck,Inteleon VMAX High-Class Deck,SGI,,,,2021,2021-05-28,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,イーブイヒーローズ,Eevee Heroes,S6a,,,,2021,2021-05-28,Sword & Shield Era,69,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Sword & Shield Family Pokémon Card Game,Sword & Shield Family Pokémon Card Game,SH,,,,2021,2021-07-09,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,摩天パーフェクト,Skyscraping Perfection,S7D,,,,2021,2021-07-09,Sword & Shield Era,67,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,摩天パーフェクト,Skyscraping Perfection,S7D,,,,2021,2021-07-09,Sword & Shield Era,67,90,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,蒼空ストリーム,Blue Sky Stream,S7R,,,,2021,2021-07-09,Sword & Shield Era,67,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,V-UNION Special Card Sets,V-UNION Special Card Sets,SP5,,,,2021,2021-08-20,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,フュージョンアーツ,Fusion Arts,S8,,,,2021,2021-09-24,Sword & Shield Era,100,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,フュージョンアーツ,Fusion Arts,S8,,,,2021,2021-09-24,Sword & Shield Era,100,129,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,25th アニバーサリーコレクション,25th Anniversary Collection,S8a,,,,2021,2021-10-22,Sword & Shield Era,28,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Promo Card Pack 25th Anniversary Edition,Promo Card Pack 25th Anniversary Edition,S8a-P,,,,2021,2021-10-22,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Zacian & Zamazenta vs Eternatus Special Deck Set,Zacian & Zamazenta vs Eternatus Special Deck Set,SJ,,,,2021,2021-11-05,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,25th Anniversary Golden Box,25th Anniversary Golden Box,S8a-G,,,,2021,2021-12-01,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,VMAXクライマックス,VMAX Climax,S8b,,,,2021,2021-12-03,Sword & Shield Era,184,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,VMAXクライマックス,VMAX Climax,S8b,,,,2021,2021-12-03,Sword & Shield Era,184,285,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Start Deck 100,Start Deck 100,SI,,,,2021,2021-12-17,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,25th Anniversary Creatures Deck,25th Anniversary Creatures Deck,,,,,2021,2021-12-26,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,VSTAR Premium Trainer Box,VSTAR Premium Trainer Box,SK,,,,2022,2022-01-14,Sword & Shield Era,,0,database.xlsx
@@ -1531,18 +1532,19 @@ Pokémon TCG,Japanese,Darkrai Starter Set VSTAR,Darkrai Starter Set VSTAR,SLD,,,
 Pokémon TCG,Japanese,Lucario Starter Set VSTAR,Lucario Starter Set VSTAR,SLL,,,,2022,2022-02-25,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,バトルリージョン,Battle Region,S9a,,,,2022,2022-02-25,Sword & Shield Era,67,93,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Start Deck 100 CoroCoro Comic Version,Start Deck 100 CoroCoro Comic Version,SN,,,,2022,2022-03-01,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,スペースジャグラー,Space Juggler,S10P,,,,2022,2022-04-08,Sword & Shield Era,67,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,スペースジャグラー,Space Juggler,S10P,,,,2022,2022-04-08,Sword & Shield Era,67,88,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,タイムゲイザー,Time Gazer,S10D,,,,2022,2022-04-08,Sword & Shield Era,67,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ダークファンタズマ,Dark Phantasma,S10a,,,,2022,2022-05-13,Sword & Shield Era,71,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ダークファンタズマ,Dark Phantasma,S10a,,,,2022,2022-05-13,Sword & Shield Era,71,99,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Pokémon GO,Pokémon GO,S10b,,,,2022,2022-06-17,Sword & Shield Era,71,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Deoxys VSTAR & VMAX High-Class Deck,Deoxys VSTAR & VMAX High-Class Deck,SPD,,,,2022,2022-07-15,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Zeraora VSTAR & VMAX High-Class Deck,Zeraora VSTAR & VMAX High-Class Deck,SPZ,,,,2022,2022-07-15,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,ロストアビス,Lost Abyss,S11,,,,2022,2022-07-15,Sword & Shield Era,100,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ロストアビス,Lost Abyss,S11,,,,2022,2022-07-15,Sword & Shield Era,100,127,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,VSTAR Special Set,VSTAR Special Set,SP6,,,,2022,2022-08-05,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,白熱のアルカナ,Incandescent Arcana,S11a,,,,2022,2022-09-02,Sword & Shield Era,68,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,白熱のアルカナ,Incandescent Arcana,S11a,,,,2022,2022-09-02,Sword & Shield Era,68,94,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,パラダイムトリガー,Paradigm Trigger,S12,,,,2022,2022-10-21,Sword & Shield Era,98,125,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Charizard VSTAR vs Rayquaza VMAX Special Deck Set,Charizard VSTAR vs Rayquaza VMAX Special Deck Set,SO,,,,2022,2022-11-04,Sword & Shield Era,,0,database.xlsx
-Pokémon TCG,Japanese,VSTARユニバース,VSTAR Universe,S12a,,,,2022,2022-12-02,Sword & Shield Era,172,254,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,スカーレット&バイオレット プロモカード,Scarlet & Violet Promos,SVP,,,,2022,2022-11-29,Scarlet & Violet Era,0,288,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,VSTARユニバース,VSTAR Universe,S12a,,,,2022,2022-12-02,Sword & Shield Era,172,258,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Fuecoco & Ampharos ex Starter Set ex,Fuecoco & Ampharos ex Starter Set ex,SVAL,,,,2023,2023-01-20,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,Quaxly & Mimikyu ex Starter Set ex,Quaxly & Mimikyu ex Starter Set ex,SVAW,,,,2023,2023-01-20,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,Sprigatito & Lucario ex Starter Set ex,Sprigatito & Lucario ex Starter Set ex,SVAM,,,,2023,2023-01-20,Scarlet & Violet Era,,0,database.xlsx
@@ -1571,8 +1573,8 @@ Pokémon TCG,Japanese,"Venusaur, Charizard & Blastoise Special Deck Set ex","Ven
 Pokémon TCG,Japanese,レイジングサーフ,Shiny Treasure ex,SV4a,,,,2023,2023-12-01,Scarlet & Violet Era,190,320,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Ancient Koraidon ex Starter Deck & Build Set,Ancient Koraidon ex Starter Deck & Build Set,SVHK,,,,2024,2024-01-26,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,Future Miraidon ex Starter Deck & Build Set,Future Miraidon ex Starter Deck & Build Set,SVHM,,,,2024,2024-01-26,Scarlet & Violet Era,,0,database.xlsx
-Pokémon TCG,Japanese,サイバージャッジ,Cyber Judge,SV5M,,,,2024,2024-01-26,Scarlet & Violet Era,71,0,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ワイルドフォース,Wild Force,SV5K,,,,2024,2024-01-26,Scarlet & Violet Era,71,49,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,サイバージャッジ,Cyber Judge,SV5M,,,,2024,2024-01-26,Scarlet & Violet Era,71,100,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ワイルドフォース,Wild Force,SV5K,,,,2024,2024-01-26,Scarlet & Violet Era,71,100,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Battle Academy,Battle Academy,SVI,,,,2024,2024-03-08,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,クリムゾンヘイズ,Crimson Haze,SV5a,,,,2024,2024-03-22,Scarlet & Violet Era,66,96,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,トリプレットビート,,CS1.5,,,,2024,2024-04-26,剣と盾,101,0,tcgdex
@@ -1590,16 +1592,16 @@ Pokémon TCG,Japanese,トリプレットビート,,CS4Da,,,,2024,2024-04-26,剣�
 Pokémon TCG,Japanese,トリプレットビート,,CS4a,,,,2024,2024-04-26,剣と盾,101,0,tcgdex
 Pokémon TCG,Japanese,トリプレットビート,,CS4b,,,,2024,2024-04-26,剣と盾,101,0,tcgdex
 Pokémon TCG,Japanese,トリプレットビート,,CSA,,,,2024,2024-04-26,剣と盾,101,0,tcgdex
-Pokémon TCG,Japanese,変幻の仮面,Mask of Change,SV6,,,,2024,2024-04-26,Scarlet & Violet Era,101,101,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,変幻の仮面,Mask of Change,SV6,,,,2024,2024-04-26,Scarlet & Violet Era,101,133,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Chien-Pao ex Battle Master Deck,Chien-Pao ex Battle Master Deck,SVJP,,,,2024,2024-05-17,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,Terastal Charizard ex Battle Master Deck,Terastal Charizard ex Battle Master Deck,SVJL,,,,2024,2024-05-17,Scarlet & Violet Era,,0,database.xlsx
-Pokémon TCG,Japanese,ナイトワンダラー,Night Wanderer,SV6a,,,,2024,2024-06-07,Scarlet & Violet Era,64,0,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ナイトワンダラー,Night Wanderer,SV6a,,,,2024,2024-06-07,Scarlet & Violet Era,64,94,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,ステラミラクル,Stellar Miracle,SV7,,,,2024,2024-07-19,Scarlet & Violet Era,102,135,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,デッキビルドBOX ステラミラクル,Stellar Miracle Deck Build Box,SVK,,,,2024,2024-07-19,Scarlet & Violet Era,44,44,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,スターターセット テラスタイプ：ステラ ソウブレイズex,Ceruledge ex Starter Set Tera Type: Stellar,SVLS,,,,2024,2024-08-30,Scarlet & Violet Era,22,22,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,スターターセット テラスタイプ：ステラ ニンフィアex,Sylveon ex Starter Set Tera Type: Stellar,SVLN,,,,2024,2024-08-30,Scarlet & Violet Era,22,22,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,楽園ドラゴーナ,Paradise Dragona,SV7a,,,,2024,2024-09-13,Scarlet & Violet Era,64,94,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,超電ブレイカー,Super Electric Breaker,SV8,,,,2024,2024-10-18,Scarlet & Violet Era,106,106,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,超電ブレイカー,Super Electric Breaker,SV8,,,,2024,2024-10-18,Scarlet & Violet Era,106,138,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Generations Starter Decks,Generations Starter Decks,SVM,,,,2024,2024-11-22,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,テラスタルフェスex,Terastal Festival ex,SV8a,,,,2024,2024-12-06,Scarlet & Violet Era,187,237,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Battle Partners Deck Build Box,Battle Partners Deck Build Box,SVN,,,,2025,2025-01-24,Scarlet & Violet Era,,0,database.xlsx
@@ -1607,10 +1609,10 @@ Pokémon TCG,Japanese,バトルパートナーズ,Battle Partners,SV9,,,,2025,20
 Pokémon TCG,Japanese,Marnie's Morpeko & Grimmsnarl ex Starter Set ex,Marnie's Morpeko & Grimmsnarl ex Starter Set ex,SVOM,,,,2025,2025-02-21,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,Steven's Beldum & Metagross ex Starter Set ex,Steven's Beldum & Metagross ex Starter Set ex,SVOD,,,,2025,2025-02-21,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,熱風のアリーナ,Hot Air Arena,SV9a,,,,2025,2025-03-14,Scarlet & Violet Era,63,92,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,ロケット団の栄光,The Glory of Team Rocket,SV10,,,,2025,2025-04-18,Scarlet & Violet Era,98,98,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,ロケット団の栄光,The Glory of Team Rocket,SV10,,,,2025,2025-04-18,Scarlet & Violet Era,98,132,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,ブラックボルト,Black Bolt,SV11B,,,,2025,2025-06-06,Scarlet & Violet Era,174,174,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,ホワイトフレア,White Flare,SV11W,,,,2025,2025-06-06,Scarlet & Violet Era,86,174,"database.xlsx,tcgdex"
-Pokémon TCG,Japanese,メガ プロモカード,Mega Evolution Promos,MP,,,,2025,2025-07-28,Mega Evolution Era,0,83,"database.xlsx,tcgdex"
+Pokémon TCG,Japanese,メガ プロモカード,Mega Evolution Promos,MP,,,,2025,2025-07-28,Mega Evolution Era,0,132,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,MEGA Premium Trainer Box,MEGA Premium Trainer Box,MA,,,,2025,2025-08-01,Mega Evolution Era,,0,database.xlsx
 Pokémon TCG,Japanese,Mega Evolution Energies,Mega Evolution Energies,,,,,2025,2025-08-01,Unnumbered Energies,,0,database.xlsx
 Pokémon TCG,Japanese,メガシンフォニア,Mega Symphonia,M1S,,,,2025,2025-08-01,Mega Evolution Era,63,92,"database.xlsx,tcgdex"
@@ -1626,8 +1628,8 @@ Pokémon TCG,Japanese,ニンジャスピナー,Ninja Spinner,M4,,,,2026,2026-03-
 Pokémon TCG,Japanese,アビスアイ,Abyss Eye,M5,,,,2026,2026-05-22,Mega Evolution Era,81,118,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Eevee ex Starter Set ex,Eevee ex Starter Set ex,MEE,,,,2026,2026-07-31,Mega Evolution Era,,0,database.xlsx
 Pokémon TCG,Japanese,Sprigatito & Meowscarada ex Starter Set ex,Sprigatito & Meowscarada ex Starter Set ex,MEM,,,,2026,2026-07-31,Mega Evolution Era,,0,database.xlsx
-Pokémon TCG,Japanese,Storm Emeralda,Storm Emeralda,M6,,,,2026,2026-07-31,Mega Evolution Era,,0,database.xlsx
 Pokémon TCG,Japanese,Zorua & Zoroark ex Starter Set ex,Zorua & Zoroark ex Starter Set ex,MEZ,,,,2026,2026-07-31,Mega Evolution Era,,0,database.xlsx
+Pokémon TCG,Japanese,ストームエメラルダ,Storm Emeralda,M6,,,,2026,2026-07-31,Mega Evolution Era,76,113,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,30th Celebration,30th Celebration,M6a,,,,2026,2026-09-16,Mega Evolution Era,,0,database.xlsx
 Pokémon TCG,Japanese,30th Celebration Premium Deck Set - Espeon & Umbreon,30th Celebration Premium Deck Set - Espeon & Umbreon,MF,,,,2026,2026-09-16,Mega Evolution Era,,0,database.xlsx
 Pokémon TCG,Japanese,Bastiodon the Defender & Rampardos the Attacker Constructed Half Decks,Bastiodon the Defender & Rampardos the Attacker Constructed Half Decks,,,,,,,Diamond & Pearl Era,,0,database.xlsx
@@ -1636,7 +1638,6 @@ Pokémon TCG,Japanese,Leaders' Pokémon: Movie Limited Edition,Leaders' Pokémon
 Pokémon TCG,Japanese,Miscellaneous Decks,Miscellaneous Decks,,,,,,,Other,,0,database.xlsx
 Pokémon TCG,Japanese,Miscellaneous Promos,Miscellaneous Promos,MP,,,,,,Other,,0,database.xlsx
 Pokémon TCG,Japanese,Moonlit Pursuit & Dawn Dash,Moonlit Pursuit & Dawn Dash,DP4,,,,,,Other,,0,database.xlsx
-Pokémon TCG,Japanese,Scarlet & Violet Promos,Scarlet & Violet Promos,SVP,,,,,,Scarlet & Violet Era,,0,database.xlsx
 Pokémon TCG,Japanese,Sun & Moon Promos,Sun & Moon Promos,SMP,,,,,,Sun & Moon Era,,0,database.xlsx
 Pokémon TCG,Japanese,Sword & Shield Promos,Sword & Shield Promos,SP,,,,,,Sword & Shield Era,,0,database.xlsx
 Pokémon TCG,Japanese,Tropical Mega Battle,Tropical Mega Battle,,,,,,,Other,,0,database.xlsx
@@ -1664,10 +1665,10 @@ Pokémon TCG,Korean,태그볼트,,SM9,,,,2018,2018-12-07,썬&문,95,0,tcgdex
 Pokémon TCG,Korean,나이트유니슨,,SM9a,,,,2019,2019-01-11,썬&문,55,0,tcgdex
 Pokémon TCG,Korean,풀메탈월,,SM9b,,,,2019,2019-02-01,썬&문,54,0,tcgdex
 Pokémon TCG,Korean,더블블레이즈,,SM10,,,,2019,2019-03-01,썬&문,95,0,tcgdex
-Pokémon TCG,Korean,GG엔드,,sn10a,,,,2019,2019-04-05,썬&문,54,0,tcgdex
+Pokémon TCG,Korean,GG엔드,,SM10a,,,,2019,2019-04-05,썬&문,54,0,tcgdex
 Pokémon TCG,Korean,명탐정 피카츄,,SMP2,,,,2019,2019-04-26,썬&문,24,0,tcgdex
 Pokémon TCG,Korean,스카이레전드,,SM10b,,,,2019,2019-04-26,썬&문,56,0,tcgdex
-Pokémon TCG,Korean,미라클트윈,,sn11,,,,2019,2019-05-31,썬&문,94,0,tcgdex
+Pokémon TCG,Korean,미라클트윈,,SM11,,,,2019,2019-05-31,썬&문,94,0,tcgdex
 Pokémon TCG,Korean,리믹스바우트,,SM11a,,,,2019,2019-07-05,썬&문,64,0,tcgdex
 Pokémon TCG,Korean,드림리그,,SM11b,,,,2019,2019-08-02,썬&문,49,0,tcgdex
 Pokémon TCG,Korean,얼터제네시스,,SM12,,,,2019,2019-09-06,썬&문,95,0,tcgdex
@@ -1850,7 +1851,7 @@ Pokémon TCG,Portuguese,Fogo Branco,,WHT,,,,2025,2025-07-17,Escarlate e Violeta,
 Pokémon TCG,Portuguese,Raio Preto,,BLK,,,,2025,2025-07-17,Escarlate e Violeta,86,172,tcgdex
 Pokémon TCG,Portuguese,Nascentes Reclusas,,A4a,,,,2025,2025-08-28,Pokémon Estampas Ilustradas Pocket,71,0,tcgdex
 Pokémon TCG,Portuguese,Megaevolução Energia,,MEE,,,,2025,2025-09-25,Megaevolução,8,8,tcgdex
-Pokémon TCG,Portuguese,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Megaevolução,0,60,tcgdex
+Pokémon TCG,Portuguese,MEP Black Star Promos,,MEP,,,,2025,2025-09-26,Megaevolução,0,88,tcgdex
 Pokémon TCG,Portuguese,Megaevolução,,MEG,,,,2025,2025-09-26,Megaevolução,132,188,tcgdex
 Pokémon TCG,Portuguese,Fogo Fantasmagórico,,PFL,,,,2025,2025-11-14,Megaevolução,94,130,tcgdex
 Pokémon TCG,Portuguese,Chama Carmesim,,B1a,,,,2025,2025-12-17,Pokémon Estampas Ilustradas Pocket,69,0,tcgdex

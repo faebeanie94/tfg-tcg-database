@@ -1,14 +1,9 @@
 ﻿issue,language,set,abbreviation,detail,sources
-no card list,de,Wizards Black Star Promos,basep,1999-07-01,tcgdex
-no card list,de,EX Verborgene Mächte Icognito,exu,2005-08-22,tcgdex
 no card list,de,Promo HGSS,hgssp,2010-02-11,tcgdex
 no card list,de,SW Promokarten,BWP,2011-04-26,tcgdex
 no card list,de,Drachengruft,DRV,2012-10-05,tcgdex
 no card list,de,XY Promokarten,XYP,2013-10-12,tcgdex
 no card list,de,Gelbes-A-Alternativkarten,xya,2014-02-05,tcgdex
-no card list,de,Generationen,GEN,2016-02-22,tcgdex
-no card list,de,Verborgenes Schicksal,HIF,2019-08-23,tcgdex
-no card list,de,Verborgenes Schicksal Glitzer-Tresor,sma,2019-08-23,tcgdex
 no card list,de,Celebrations Klassische Kollektion,CEL:CC,2021-10-08,tcgdex
 no card list,de,Verborgene Quelle,A4a,2025-08-28,tcgdex
 no card list,de,Feuerrote Flammen,B1a,2025-12-17,tcgdex
@@ -226,7 +221,6 @@ no card list,es,Desfile de Ensueño,B2,2026-01-29,tcgdex
 no card list,fr,W Promotional,wp,1999-09-01,tcgdex
 no card list,fr,Cartes Jumbo,jumbo,2000-02-01,tcgdex
 no card list,fr,Radiant Collection,rc,2013-11-06,tcgdex
-no card list,fr,Méga-Ascension,B1,2025-10-30,tcgdex
 no card list,fr,Embrasement Écarlate,B1a,2025-12-17,tcgdex
 no card list,fr,Parade Onirique,B2,2026-01-29,tcgdex
 no card list,id,Pedang & Perisai,SC1D,2020-11-21,tcgdex
@@ -278,7 +272,6 @@ no card list,id,Hantaman Triplet,CS4Da,2024-04-26,tcgdex
 no card list,id,Hantaman Triplet,CS4a,2024-04-26,tcgdex
 no card list,id,Hantaman Triplet,CS4b,2024-04-26,tcgdex
 no card list,id,Hantaman Triplet,CSA,2024-04-26,tcgdex
-no card list,it,Jungle,JU,1999-06-16,tcgdex
 no card list,it,Wizards Black Star Promos,basep,1999-07-01,tcgdex
 no card list,it,Carte Promo Wizards,wp,1999-09-01,tcgdex
 no card list,it,Fossil,FO,1999-10-10,tcgdex
@@ -586,7 +579,6 @@ no card list,ja,Emerald Break,XY6,2015-03-14,"database.xlsx,tcgdex"
 no card list,ja,M Rayquaza-EX Mega Battle Deck,XYD,2015-03-14,database.xlsx
 no card list,ja,Bandit Ring,XY7,2015-06-20,"database.xlsx,tcgdex"
 no card list,ja,Emboar-EX vs Togekiss-EX Battle Starter Set,XYE,2015-07-18,database.xlsx
-no card list,ja,Legendary Shine Collection,CP2,2015-07-18,"database.xlsx,tcgdex"
 no card list,ja,M Master Deck Build Box Power Style,MMB-P,2015-08-07,database.xlsx
 no card list,ja,M Master Deck Build Box Speed Style,MMB-S,2015-08-07,database.xlsx
 no card list,ja,Blue Shock,XY8-Bb,2015-09-26,database.xlsx
@@ -610,55 +602,24 @@ no card list,ja,冷酷の反逆者,XY11b,2016-06-17,tcgdex
 no card list,ja,Mythical & Legendary Dream Shine Collection,CP5,2016-07-16,"database.xlsx,tcgdex"
 no card list,ja,Expansion Pack 20th Anniversary,CP6,2016-09-16,"database.xlsx,tcgdex"
 no card list,ja,Pikachu's New Friends,SM0,2016-11-18,"database.xlsx,tcgdex"
-no card list,ja,Collection Moon,SM1M,2016-12-09,"database.xlsx,tcgdex"
-no card list,ja,Collection Sun,SM1S,2016-12-09,"database.xlsx,tcgdex"
 no card list,ja,"Decidueye-GX, Incineroar-GX & Primarina-GX Starter Sets",SMA,2016-12-09,database.xlsx
 no card list,ja,Premium Trainer Box,SMB,2016-12-09,database.xlsx
 no card list,ja,Rockruff Full Power Deck,SMP1,2016-12-15,database.xlsx
-no card list,ja,Sun & Moon Enhanced Expansion Pack,SM1,2017-01-27,database.xlsx
-no card list,ja,Alolan Moonlight,SM2L,2017-03-17,"database.xlsx,tcgdex"
-no card list,ja,Islands Await You,SM2K,2017-03-17,"database.xlsx,tcgdex"
 no card list,ja,Tapu Bulu-GX Enhanced Starter Set,SMC,2017-03-17,database.xlsx
 no card list,ja,Ash vs Team Rocket Battle Set,SMD,2017-04-21,database.xlsx
 no card list,ja,Facing a New Trial,SM2,2017-04-21,database.xlsx
 no card list,ja,The Best of XY,XY,2017-04-21,database.xlsx
-no card list,ja,Darkness that Consumes Light,SM3N,2017-06-16,"database.xlsx,tcgdex"
-no card list,ja,To Have Seen the Battle Rainbow,SM3H,2017-06-16,"database.xlsx,tcgdex"
-no card list,ja,Shining Legends,SM3,2017-07-15,database.xlsx
-no card list,ja,Awakened Heroes,SM4S,2017-09-15,"database.xlsx,tcgdex"
-no card list,ja,Ultradimensional Beasts,SM4A,2017-09-15,"database.xlsx,tcgdex"
-no card list,ja,GX Battle Boost,SM4,2017-10-20,database.xlsx
 no card list,ja,Solgaleo-GX & Lunala-GX Legendary Starter Set,SME,2017-11-10,database.xlsx
-no card list,ja,Ultra Moon,SM5M,2017-12-08,"database.xlsx,tcgdex"
-no card list,ja,Ultra Sun,SM5S,2017-12-08,"database.xlsx,tcgdex"
 no card list,ja,Ultra Sun & Ultra Moon Premium Trainer Box,SMF,2017-12-08,database.xlsx
-no card list,ja,Ultra Force,SM5,2018-01-19,database.xlsx
 no card list,ja,Ultra Sun & Ultra Moon Deck Build Boxes,SMG,2018-02-16,database.xlsx
-no card list,ja,Forbidden Light,SM6,2018-03-02,"database.xlsx,tcgdex"
-no card list,ja,Dragon Storm,SM6a,2018-04-06,"database.xlsx,tcgdex"
-no card list,ja,Champion Road,SM6b,2018-05-03,"database.xlsx,tcgdex"
-no card list,ja,Sky-Splitting Charisma,SM7,2018-06-01,"database.xlsx,tcgdex"
-no card list,ja,Thunderclap Spark,SM7a,2018-07-06,"database.xlsx,tcgdex"
 no card list,ja,GX Starter Decks,SMH,2018-07-13,database.xlsx
-no card list,ja,Fairy Rise,SM7b,2018-08-03,"database.xlsx,tcgdex"
-no card list,ja,Super-Burst Impact,SM8,2018-09-07,"database.xlsx,tcgdex"
-no card list,ja,Dark Order,SM8a,2018-10-05,"database.xlsx,tcgdex"
-no card list,ja,GX Ultra Shiny,SM8b,2018-11-02,"database.xlsx,tcgdex"
 no card list,ja,"Flareon-GX, Vaporeon-GX & Jolteon-GX Starter Sets",SMI,2018-11-23,database.xlsx
-no card list,ja,Tag Bolt,SM9,2018-12-07,"database.xlsx,tcgdex"
 no card list,ja,Tag Team GX Premium Trainer Box,SMJ,2018-12-07,database.xlsx
-no card list,ja,Night Unison,SM9a,2019-01-11,"database.xlsx,tcgdex"
 no card list,ja,Trainer Battle Decks,SMK,2019-01-25,database.xlsx
-no card list,ja,Full Metal Wall,SM9b,2019-02-01,"database.xlsx,tcgdex"
 no card list,ja,Tag Team GX Deck Build Box,SMN,2019-03-01,database.xlsx
 no card list,ja,Sun & Moon Family Pokémon Card Game,SML,2019-03-15,database.xlsx
-no card list,ja,GG End,SM10a,2019-04-05,"database.xlsx,tcgdex"
 no card list,ja,Great Detective Pikachu,SMP2,2019-04-26,"database.xlsx,tcgdex"
-no card list,ja,Sky Legend,SM10b,2019-04-26,"database.xlsx,tcgdex"
-no card list,ja,Miracle Twin,SM11,2019-05-31,database.xlsx
 no card list,ja,Tag Team GX Starter Sets,SMM,2019-05-31,database.xlsx
-no card list,ja,ミラクルツイン,sn11,2019-05-31,tcgdex
-no card list,ja,Remix Bout,SM11a,2019-07-05,"database.xlsx,tcgdex"
 no card list,ja,Extra Regulation Box,,2019-10-04,database.xlsx
 no card list,ja,Fighting Starter Set V,SA,2019-11-29,database.xlsx
 no card list,ja,Fire Starter Set V,SA,2019-11-29,database.xlsx
@@ -685,40 +646,30 @@ no card list,ja,Charizard Starter Set VMAX 2,SC2,2020-12-04,database.xlsx
 no card list,ja,Venusaur Starter Set VMAX,SEF,2020-12-04,database.xlsx
 no card list,ja,Rapid Strike Master,S5R,2021-01-22,"database.xlsx,tcgdex"
 no card list,ja,Single Strike & Rapid Strike Premium Trainer Boxes,SF,2021-01-22,database.xlsx
-no card list,ja,Single Strike Master,S5I,2021-01-22,"database.xlsx,tcgdex"
 no card list,ja,Matchless Fighters,S5a,2021-03-19,"database.xlsx,tcgdex"
-no card list,ja,Jet-Black Spirit,S6K,2021-04-23,"database.xlsx,tcgdex"
-no card list,ja,Silver Lance,S6H,2021-04-23,"database.xlsx,tcgdex"
 no card list,ja,Silver Lance & Jet-Black Spirit Jumbo Pack Set,SP3,2021-04-23,database.xlsx
 no card list,ja,Eevee Heroes,S6a,2021-05-28,"database.xlsx,tcgdex"
 no card list,ja,Eevee Heroes VMAX Special Set,SP4,2021-05-28,database.xlsx
 no card list,ja,Gengar VMAX High-Class Deck,SGG,2021-05-28,database.xlsx
 no card list,ja,Inteleon VMAX High-Class Deck,SGI,2021-05-28,database.xlsx
 no card list,ja,Blue Sky Stream,S7R,2021-07-09,"database.xlsx,tcgdex"
-no card list,ja,Skyscraping Perfection,S7D,2021-07-09,"database.xlsx,tcgdex"
 no card list,ja,Sword & Shield Family Pokémon Card Game,SH,2021-07-09,database.xlsx
 no card list,ja,V-UNION Special Card Sets,SP5,2021-08-20,database.xlsx
-no card list,ja,Fusion Arts,S8,2021-09-24,"database.xlsx,tcgdex"
 no card list,ja,25th Anniversary Collection,S8a,2021-10-22,"database.xlsx,tcgdex"
 no card list,ja,Promo Card Pack 25th Anniversary Edition,S8a-P,2021-10-22,database.xlsx
 no card list,ja,Zacian & Zamazenta vs Eternatus Special Deck Set,SJ,2021-11-05,database.xlsx
 no card list,ja,25th Anniversary Golden Box,S8a-G,2021-12-01,database.xlsx
-no card list,ja,VMAX Climax,S8b,2021-12-03,"database.xlsx,tcgdex"
 no card list,ja,Start Deck 100,SI,2021-12-17,database.xlsx
 no card list,ja,25th Anniversary Creatures Deck,,2021-12-26,database.xlsx
 no card list,ja,VSTAR Premium Trainer Box,SK,2022-01-14,database.xlsx
 no card list,ja,Darkrai Starter Set VSTAR,SLD,2022-02-25,database.xlsx
 no card list,ja,Lucario Starter Set VSTAR,SLL,2022-02-25,database.xlsx
 no card list,ja,Start Deck 100 CoroCoro Comic Version,SN,2022-03-01,database.xlsx
-no card list,ja,Space Juggler,S10P,2022-04-08,"database.xlsx,tcgdex"
 no card list,ja,Time Gazer,S10D,2022-04-08,"database.xlsx,tcgdex"
-no card list,ja,Dark Phantasma,S10a,2022-05-13,"database.xlsx,tcgdex"
 no card list,ja,Pokémon GO,S10b,2022-06-17,"database.xlsx,tcgdex"
 no card list,ja,Deoxys VSTAR & VMAX High-Class Deck,SPD,2022-07-15,database.xlsx
-no card list,ja,Lost Abyss,S11,2022-07-15,"database.xlsx,tcgdex"
 no card list,ja,Zeraora VSTAR & VMAX High-Class Deck,SPZ,2022-07-15,database.xlsx
 no card list,ja,VSTAR Special Set,SP6,2022-08-05,database.xlsx
-no card list,ja,Incandescent Arcana,S11a,2022-09-02,"database.xlsx,tcgdex"
 no card list,ja,Charizard VSTAR vs Rayquaza VMAX Special Deck Set,SO,2022-11-04,database.xlsx
 no card list,ja,ex Premium Trainer Box,SVB,2023-01-20,database.xlsx
 no card list,ja,Fuecoco & Ampharos ex Starter Set ex,SVAL,2023-01-20,database.xlsx
@@ -736,7 +687,6 @@ no card list,ja,Pokémon TCG Classic (Charizard),CLL,2023-10-31,database.xlsx
 no card list,ja,Pokémon TCG Classic (Venusaur),CLF,2023-10-31,database.xlsx
 no card list,ja,"Venusaur, Charizard & Blastoise Special Deck Set ex",SVG,2023-11-10,database.xlsx
 no card list,ja,Ancient Koraidon ex Starter Deck & Build Set,SVHK,2024-01-26,database.xlsx
-no card list,ja,Cyber Judge,SV5M,2024-01-26,"database.xlsx,tcgdex"
 no card list,ja,Future Miraidon ex Starter Deck & Build Set,SVHM,2024-01-26,database.xlsx
 no card list,ja,Battle Academy,SVI,2024-03-08,database.xlsx
 no card list,ja,トリプレットビート,CS1.5,2024-04-26,tcgdex
@@ -756,7 +706,6 @@ no card list,ja,トリプレットビート,CS4b,2024-04-26,tcgdex
 no card list,ja,トリプレットビート,CSA,2024-04-26,tcgdex
 no card list,ja,Chien-Pao ex Battle Master Deck,SVJP,2024-05-17,database.xlsx
 no card list,ja,Terastal Charizard ex Battle Master Deck,SVJL,2024-05-17,database.xlsx
-no card list,ja,Night Wanderer,SV6a,2024-06-07,"database.xlsx,tcgdex"
 no card list,ja,Generations Starter Decks,SVM,2024-11-22,database.xlsx
 no card list,ja,Battle Partners Deck Build Box,SVN,2025-01-24,database.xlsx
 no card list,ja,Marnie's Morpeko & Grimmsnarl ex Starter Set ex,SVOM,2025-02-21,database.xlsx
@@ -768,11 +717,9 @@ no card list,ja,Mega Gengar ex Starter Set MEGA,MBG,2025-09-05,database.xlsx
 no card list,ja,Start Deck 100 Battle Collection CoroCiao Version,MP1,2025-12-19,database.xlsx
 no card list,ja,Eevee ex Starter Set ex,MEE,2026-07-31,database.xlsx
 no card list,ja,Sprigatito & Meowscarada ex Starter Set ex,MEM,2026-07-31,database.xlsx
-no card list,ja,Storm Emeralda,M6,2026-07-31,database.xlsx
 no card list,ja,Zorua & Zoroark ex Starter Set ex,MEZ,2026-07-31,database.xlsx
 no card list,ja,30th Celebration,M6a,2026-09-16,database.xlsx
 no card list,ja,30th Celebration Premium Deck Set - Espeon & Umbreon,MF,2026-09-16,database.xlsx
-no card list,ja,Scarlet & Violet Promos,SVP,,database.xlsx
 no card list,ja,Sword & Shield Promos,SP,,database.xlsx
 no card list,ja,Sun & Moon Promos,SMP,,database.xlsx
 no card list,ja,XY Promos,XYP,,database.xlsx
@@ -806,10 +753,10 @@ no card list,ko,태그볼트,SM9,2018-12-07,tcgdex
 no card list,ko,나이트유니슨,SM9a,2019-01-11,tcgdex
 no card list,ko,풀메탈월,SM9b,2019-02-01,tcgdex
 no card list,ko,더블블레이즈,SM10,2019-03-01,tcgdex
-no card list,ko,GG엔드,sn10a,2019-04-05,tcgdex
+no card list,ko,GG엔드,SM10a,2019-04-05,tcgdex
 no card list,ko,스카이레전드,SM10b,2019-04-26,tcgdex
 no card list,ko,명탐정 피카츄,SMP2,2019-04-26,tcgdex
-no card list,ko,미라클트윈,sn11,2019-05-31,tcgdex
+no card list,ko,미라클트윈,SM11,2019-05-31,tcgdex
 no card list,ko,리믹스바우트,SM11a,2019-07-05,tcgdex
 no card list,ko,드림리그,SM11b,2019-08-02,tcgdex
 no card list,ko,얼터제네시스,SM12,2019-09-06,tcgdex
