@@ -90,7 +90,7 @@ Pokémon TCG,German,Bund der Gleichgesinnten,,UNM,,,,2019,2019-08-02,Sonne & Mon
 Pokémon TCG,German,Verborgenes Schicksal,,HIF,,,,2019,2019-08-23,Sonne & Mond,68,69,tcgdex
 Pokémon TCG,German,Verborgenes Schicksal Glitzer-Tresor,,sma,,,,2019,2019-08-23,Sonne & Mond,94,94,tcgdex
 Pokémon TCG,German,Welten im Wandel,,CEC,,,,2019,2019-11-01,Sonne & Mond,236,271,tcgdex
-Pokémon TCG,German,SCSC Promokarten,,swshp,,,,2019,2019-11-15,Schwert & Schild,307,299,tcgdex
+Pokémon TCG,German,SCSC Promokarten,,swshp,,,,2019,2019-11-15,Schwert & Schild,307,301,tcgdex
 Pokémon TCG,German,Schwert & Schild,,SSH,,,,2020,2020-02-07,Schwert & Schild,202,216,tcgdex
 Pokémon TCG,German,Clash der Rebellen,,RCL,,,,2020,2020-05-01,Schwert & Schild,192,209,tcgdex
 Pokémon TCG,German,Flammende Finsternis,,DAA,,,,2020,2020-08-14,Schwert & Schild,189,201,tcgdex
@@ -389,7 +389,7 @@ Pokémon TCG,English,Hidden Fates (Shiny Vault),Hidden Fates (Shiny Vault),HIF,,
 Pokémon TCG,English,McDonald's Collection 2019,McDonald's Collection 2019,M19,,,,2019,2019-10-15,McDonald's Series,12,12,"database.xlsx,tcgdex"
 Pokémon TCG,English,McDonald's Collection 2019 (French),McDonald's Collection 2019 (French),M19F,,,,2019,2019-10-30,McDonald's Series,,0,database.xlsx
 Pokémon TCG,English,Cosmic Eclipse,Cosmic Eclipse,CEC,,,,2019,2019-11-01,Sun & Moon Series,236,271,"database.xlsx,tcgdex"
-Pokémon TCG,English,Sword & Shield Promos,Sword & Shield Promos,SSP,,,,2019,2019-11-15,Sword & Shield Series,307,305,"database.xlsx,tcgdex"
+Pokémon TCG,English,Sword & Shield Promos,Sword & Shield Promos,SSP,,,,2019,2019-11-15,Sword & Shield Series,307,307,"database.xlsx,tcgdex"
 Pokémon TCG,English,WC Deck 2019 (Fire Box),WC Deck 2019 (Fire Box),,,,,2019,2019-11-22,World Championships Decks,,0,database.xlsx
 Pokémon TCG,English,WC Deck 2019 (Mind Blown),WC Deck 2019 (Mind Blown),,,,,2019,2019-11-22,World Championships Decks,,0,database.xlsx
 Pokémon TCG,English,WC Deck 2019 (Perfection),WC Deck 2019 (Perfection),,,,,2019,2019-11-22,World Championships Decks,,0,database.xlsx
@@ -620,7 +620,7 @@ Pokémon TCG,Spanish,Mentes Unidas,,UNM,,,,2019,2019-08-02,Sol y Luna,236,258,tc
 Pokémon TCG,Spanish,Destinos Ocultos,,HIF,,,,2019,2019-08-23,Sol y Luna,68,0,tcgdex
 Pokémon TCG,Spanish,Destinos Ocultos Tesoro Brillante,,sma,,,,2019,2019-08-23,Sol y Luna,94,0,tcgdex
 Pokémon TCG,Spanish,Eclipse Cósmico,,CEC,,,,2019,2019-11-01,Sol y Luna,236,271,tcgdex
-Pokémon TCG,Spanish,Cartas de promoción ESES,,swshp,,,,2019,2019-11-15,Espada y Escudo,307,299,tcgdex
+Pokémon TCG,Spanish,Cartas de promoción ESES,,swshp,,,,2019,2019-11-15,Espada y Escudo,307,301,tcgdex
 Pokémon TCG,Spanish,Espada y Escudo,,SSH,,,,2020,2020-02-07,Espada y Escudo,202,216,tcgdex
 Pokémon TCG,Spanish,Choque Rebelde,,RCL,,,,2020,2020-05-01,Espada y Escudo,192,209,tcgdex
 Pokémon TCG,Spanish,Oscuridad Incandescente,,DAA,,,,2020,2020-08-14,Espada y Escudo,189,201,tcgdex
@@ -741,8 +741,8 @@ Pokémon TCG,French,Rivaux Émergeants,,RR,,,,2009,2009-05-16,Platine,111,120,tc
 Pokémon TCG,French,Vainqueurs Suprêmes,,SV,,,,2009,2009-08-19,Platine,147,153,tcgdex
 Pokémon TCG,French,HeartGold SoulSilver,,HS,,,,2010,2010-02-10,HeartGold SoulSilver,123,124,tcgdex
 Pokémon TCG,French,Promo HGSS,,hgssp,,,,2010,2010-02-11,HeartGold SoulSilver,25,25,tcgdex
-Pokémon TCG,French,HS Kit du dresseur (Léviator),,TK4G,,,,2010,2010-05-01,Kits du dresseur,30,1,tcgdex
-Pokémon TCG,French,HS Kit du dresseur (Raichu),,TK4R,,,,2010,2010-05-01,Kits du dresseur,30,1,tcgdex
+Pokémon TCG,French,HS Kit du dresseur (Léviator),,TK4G,,,,2010,2010-05-01,Kits du dresseur,30,30,tcgdex
+Pokémon TCG,French,HS Kit du dresseur (Raichu),,TK4R,,,,2010,2010-05-01,Kits du dresseur,30,30,tcgdex
 Pokémon TCG,French,Déchaînement,,UL,,,,2010,2010-05-12,HeartGold SoulSilver,95,96,tcgdex
 Pokémon TCG,French,Indomptable,,UND,,,,2010,2010-08-18,HeartGold SoulSilver,90,91,tcgdex
 Pokémon TCG,French,Triomphant,,TRI,,,,2010,2010-11-03,HeartGold SoulSilver,102,103,tcgdex
@@ -816,7 +816,7 @@ Pokémon TCG,French,Destinées Occultes,,HIF,,,,2019,2019-08-23,Soleil et Lune,6
 Pokémon TCG,French,Destinées Occultes Coffre Étincelant,,sma,,,,2019,2019-08-23,Soleil et Lune,94,94,tcgdex
 Pokémon TCG,French,Collection McDonald's 2019,,2019sm-fr,,,,2019,2019-10-30,Collection McDonald's,40,40,tcgdex
 Pokémon TCG,French,Éclipse Cosmique,,CEC,,,,2019,2019-11-01,Soleil et Lune,236,271,tcgdex
-Pokémon TCG,French,Promo SWSH,,swshp,,,,2019,2019-11-15,Épée et Bouclier,307,299,tcgdex
+Pokémon TCG,French,Promo SWSH,,swshp,,,,2019,2019-11-15,Épée et Bouclier,307,301,tcgdex
 Pokémon TCG,French,Épée et Bouclier,,SSH,,,,2020,2020-02-07,Épée et Bouclier,202,216,tcgdex
 Pokémon TCG,French,Clash des Rebelles,,RCL,,,,2020,2020-05-01,Épée et Bouclier,192,209,tcgdex
 Pokémon TCG,French,Ténèbres Embrasées,,DAA,,,,2020,2020-08-14,Épée et Bouclier,189,201,tcgdex
@@ -1081,7 +1081,7 @@ Pokémon TCG,Italian,Destino Sfuggente,,HIF,,,,2019,2019-08-23,Sole e Luna,68,0,
 Pokémon TCG,Italian,Destino Sfuggente Tesoro Lucente,,sma,,,,2019,2019-08-23,Sole e Luna,94,0,tcgdex
 Pokémon TCG,Italian,McDonald's Collection 2019,,MCD19,,,,2019,2019-10-15,McDonald's Collection,12,0,tcgdex
 Pokémon TCG,Italian,Eclissi Cosmica,,CEC,,,,2019,2019-11-01,Sole e Luna,236,271,tcgdex
-Pokémon TCG,Italian,SPSC Promo,,swshp,,,,2019,2019-11-15,Spada e Scudo,307,299,tcgdex
+Pokémon TCG,Italian,SPSC Promo,,swshp,,,,2019,2019-11-15,Spada e Scudo,307,301,tcgdex
 Pokémon TCG,Italian,Spada e Scudo,,SSH,,,,2020,2020-02-07,Spada e Scudo,202,216,tcgdex
 Pokémon TCG,Italian,Fragore Ribelle,,RCL,,,,2020,2020-05-01,Spada e Scudo,192,209,tcgdex
 Pokémon TCG,Italian,Fiamme Oscure,,DAA,,,,2020,2020-08-14,Spada e Scudo,189,201,tcgdex
@@ -1799,7 +1799,7 @@ Pokémon TCG,Portuguese,Sintonia Mental,,UNM,,,,2019,2019-08-02,Sol e Lua,236,25
 Pokémon TCG,Portuguese,Destinos Ocultos,,HIF,,,,2019,2019-08-23,Sol e Lua,68,0,tcgdex
 Pokémon TCG,Portuguese,Destinos Ocultos Cofre Brilhante,,sma,,,,2019,2019-08-23,Sol e Lua,94,0,tcgdex
 Pokémon TCG,Portuguese,Eclipse Cósmico,,CEC,,,,2019,2019-11-01,Sol e Lua,236,271,tcgdex
-Pokémon TCG,Portuguese,ESES Promos,,swshp,,,,2019,2019-11-15,Espada e Escudo,307,300,tcgdex
+Pokémon TCG,Portuguese,ESES Promos,,swshp,,,,2019,2019-11-15,Espada e Escudo,307,302,tcgdex
 Pokémon TCG,Portuguese,Espada e Escudo,,SSH,,,,2020,2020-02-07,Espada e Escudo,202,216,tcgdex
 Pokémon TCG,Portuguese,Rixa Rebelde,,RCL,,,,2020,2020-05-01,Espada e Escudo,192,209,tcgdex
 Pokémon TCG,Portuguese,Escuridão Incandescente,,DAA,,,,2020,2020-08-14,Espada e Escudo,189,201,tcgdex
