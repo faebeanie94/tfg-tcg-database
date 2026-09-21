@@ -152,6 +152,8 @@ Pokémon TCG,German,Paldean Wonders,,B2a,,,,2026,2026-02-26,Pokémon‑Sammelkar
 Pokémon TCG,German,Optimale Ordnung,,POR,,,,2026,2026-03-27,Mega-Entwicklung,88,124,tcgdex
 Pokémon TCG,German,Wachsendes Chaos,,CRI,,,,2026,2026-05-22,Mega-Entwicklung,86,122,tcgdex
 Pokémon TCG,German,Dunkelnacht,,PBL,,,,2026,2026-07-17,Mega-Entwicklung,84,120,tcgdex
+Pokémon TCG,German,30 Jahre,,30C,,,,2026,2026-09-16,Mega-Entwicklung,128,158,tcgdex
+Pokémon TCG,German,30 Jahre: Klassische Sammlung,,30C,,,,2026,2026-09-16,Mega-Entwicklung,0,30,tcgdex
 Pokémon TCG,English,Miscellaneous Promos,Miscellaneous Promos,MP,,,,1996,1996-01-01,Other,1,1,"database.xlsx,tcgdex"
 Pokémon TCG,English,Base Set,Base Set,BS,,,,1999,1999-01-09,Original Series,102,102,"database.xlsx,tcgdex"
 Pokémon TCG,English,Base Set (Shadowless),Base Set (Shadowless),BS,,,,1999,1999-01-09,Original Series,,0,database.xlsx
@@ -519,8 +521,8 @@ Pokémon TCG,English,Chaos Rising,Chaos Rising,CRI,,,,2026,2026-05-22,Mega Evolu
 Pokémon TCG,English,Gym Series Three,Gym Series Three,,,,,2026,2026-06-01,Other,,0,database.xlsx
 Pokémon TCG,English,Play! Pokémon Prize Pack Series Nine,Play! Pokémon Prize Pack Series Nine,,,,,2026,2026-07-01,Play! Pokémon Series,,0,database.xlsx
 Pokémon TCG,English,Pitch Black,Pitch Black,PBL,,,,2026,2026-07-17,Mega Evolution Series,84,120,"database.xlsx,tcgdex"
-Pokémon TCG,English,30th Celebration,30th Celebration,30C,,,,2026,2026-09-16,Mega Evolution Series,,0,database.xlsx
-Pokémon TCG,English,30th Celebration (Classic Collection),30th Celebration (Classic Collection),30C,,,,2026,2026-09-16,Mega Evolution Series,,0,database.xlsx
+Pokémon TCG,English,30th Celebration,30th Celebration,30C,,,,2026,2026-09-16,Mega Evolution Series,128,158,"database.xlsx,tcgdex"
+Pokémon TCG,English,30th Celebration (Classic Collection),30th Celebration (Classic Collection),30C,,,,2026,2026-09-16,Mega Evolution Series,0,30,"database.xlsx,tcgdex"
 Pokémon TCG,English,Box Toppers (Legendary Collection),Box Toppers (Legendary Collection),BOX1,,,,,,Other,,0,database.xlsx
 Pokémon TCG,English,Box Toppers (e-Card Series),Box Toppers (e-Card Series),BOX2,,,,,,Other,,0,database.xlsx
 Pokémon TCG,English,Countdown Calendar,Countdown Calendar,,,,,,,Other,,0,database.xlsx
@@ -686,6 +688,8 @@ Pokémon TCG,Spanish,Paldean Wonders,,B2a,,,,2026,2026-02-26,Juego de Cartas Col
 Pokémon TCG,Spanish,Equilibrio Perfecto,,POR,,,,2026,2026-03-27,Megaevolución,88,124,tcgdex
 Pokémon TCG,Spanish,Caos Creciente,,CRI,,,,2026,2026-05-22,Megaevolución,86,122,tcgdex
 Pokémon TCG,Spanish,Oscuridad Absoluta,,PBL,,,,2026,2026-07-17,Megaevolución,84,120,tcgdex
+Pokémon TCG,Spanish,Celebración 30.º Aniversario,,30C,,,,2026,2026-09-16,Megaevolución,128,158,tcgdex
+Pokémon TCG,Spanish,Colección Clásica del 30.º Aniversario,,30C,,,,2026,2026-09-16,Megaevolución,0,30,tcgdex
 Pokémon TCG,French,Set de Base,,BS,,,,1999,1999-01-09,Base,102,102,tcgdex
 Pokémon TCG,French,Jungle,,JU,,,,1999,1999-06-16,Base,64,64,tcgdex
 Pokémon TCG,French,Wizards Black Star Promos,,basep,,,,1999,1999-07-01,Base,53,26,tcgdex
@@ -886,6 +890,8 @@ Pokémon TCG,French,Merveilles de Paldea,,B2a,,,,2026,2026-02-26,Jeu de Cartes �
 Pokémon TCG,French,Équilibre Parfait,,POR,,,,2026,2026-03-27,Méga-Évolution,88,124,tcgdex
 Pokémon TCG,French,Chaos Ascendant,,CRI,,,,2026,2026-05-22,Méga-Évolution,86,122,tcgdex
 Pokémon TCG,French,Nuit Noire,,PBL,,,,2026,2026-07-17,Méga-Évolution,84,120,tcgdex
+Pokémon TCG,French,30ᵉ Anniversaire,,30C,,,,2026,2026-09-16,Méga-Évolution,128,158,tcgdex
+Pokémon TCG,French,Collection Classique30ᵉ Anniversaire,,30C,,,,2026,2026-09-16,Méga-Évolution,0,30,tcgdex
 Pokémon TCG,Indonesian,Pedang & Perisai,,SC1D,,,,2020,2020-11-21,Pedang & Perisai,164,0,tcgdex
 Pokémon TCG,Indonesian,劍&盾」SET A,,SC1a,,,,2020,2020-11-21,Pedang & Perisai,154,0,tcgdex
 Pokémon TCG,Indonesian,劍&盾」SET B,,SC1b,,,,2020,2020-11-21,Pedang & Perisai,153,0,tcgdex
@@ -1147,6 +1153,8 @@ Pokémon TCG,Italian,Paldean Wonders,,B2a,,,,2026,2026-02-26,Gioco di Carte Coll
 Pokémon TCG,Italian,Equilibrio Perfetto,,POR,,,,2026,2026-03-27,Megaevoluzione,88,124,tcgdex
 Pokémon TCG,Italian,Caos Nascente,,CRI,,,,2026,2026-05-22,Megaevoluzione,86,122,tcgdex
 Pokémon TCG,Italian,Buio Pesto,,PBL,,,,2026,2026-07-17,Megaevoluzione,84,120,tcgdex
+Pokémon TCG,Italian,30° Anniversario,,30C,,,,2026,2026-09-16,Megaevoluzione,128,158,tcgdex
+Pokémon TCG,Italian,Collzione Classica del 30°,,30C,,,,2026,2026-09-16,Megaevoluzione,0,30,tcgdex
 Pokémon TCG,Japanese,拡張パック,Expansion Pack,PMCG1,,,,1996,1996-10-20,Original Era,102,102,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,ポケモンジャングル,Pokémon Jungle,PMCG2,,,,1997,1997-03-05,Original Era,48,48,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,化石の秘密,Mystery of the Fossils,PMCG3,,,,1997,1997-06-21,Original Era,48,48,"database.xlsx,tcgdex"
@@ -1861,6 +1869,8 @@ Pokémon TCG,Portuguese,Paldean Wonders,,B2a,,,,2026,2026-02-26,Pokémon Estampa
 Pokémon TCG,Portuguese,Equilíbrio Perfeito,,POR,,,,2026,2026-03-27,Megaevolução,88,124,tcgdex
 Pokémon TCG,Portuguese,Caos Ascendente,,CRI,,,,2026,2026-05-22,Megaevolução,86,122,tcgdex
 Pokémon TCG,Portuguese,Escuridão Absoluta,,PBL,,,,2026,2026-07-17,Megaevolução,84,120,tcgdex
+Pokémon TCG,Portuguese,Celebração de 30 Anos,,30C,,,,2026,2026-09-16,Megaevolução,128,2,tcgdex
+Pokémon TCG,Portuguese,Coleção Clássica de 30 Anos,,30C,,,,2026,2026-09-16,Megaevolução,0,30,tcgdex
 Pokémon TCG,Portuguese (Brazil),Dominação Genética,,A1,,,,2024,2024-10-30,Pokémon Estampas Ilustradas Pocket,226,286,tcgdex
 Pokémon TCG,Portuguese (Brazil),Promo-A,,P-A,,,,2024,2024-10-30,Pokémon Estampas Ilustradas Pocket,0,73,tcgdex
 Pokémon TCG,Portuguese (Brazil),Ilha Mítica,,A1a,,,,2024,2024-12-17,Pokémon Estampas Ilustradas Pocket,68,86,tcgdex
