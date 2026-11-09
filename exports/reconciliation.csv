@@ -207,6 +207,8 @@ no card list,es,Colección de McDonald's 2011,MCD11,2011-06-17,tcgdex
 no card list,es,Colección de McDonald's 2012,MCD12,2012-06-15,tcgdex
 no card list,es,Tesoro de Dragones,DRV,2012-10-05,tcgdex
 no card list,es,XY Cartas de promoción,XYP,2013-10-12,tcgdex
+no card list,es,Tesoros Legendarios,LTR,2013-11-06,tcgdex
+no card list,es,Colección Radiante,rc,2013-11-06,tcgdex
 no card list,es,Cartas alternativas,xya,2014-02-05,tcgdex
 no card list,es,Generaciones,GEN,2016-02-22,tcgdex
 no card list,es,Destinos Ocultos,HIF,2019-08-23,tcgdex
@@ -519,30 +521,37 @@ no card list,ja,Beginning Set,HS,2010-10-29,database.xlsx
 no card list,ja,Black & White Promos,BWP,2010-12-01,database.xlsx
 no card list,ja,Black Collection,BW1-Bb,2010-12-17,database.xlsx
 no card list,ja,White Collection,BW1-Bw,2010-12-17,database.xlsx
+no card list,ja,ブラックコレクション,BW1a,2010-12-17,tcgdex
+no card list,ja,ホワイトコレクション,BW1b,2010-12-17,tcgdex
 no card list,ja,Cobalion Battle Strength Deck,BKc,2011-03-18,database.xlsx
 no card list,ja,Terrakion Battle Strength Deck,BKt,2011-03-18,database.xlsx
 no card list,ja,Virizion Battle Strength Deck,BKv,2011-03-18,database.xlsx
 no card list,ja,Victini Battle Theme Deck,BTV,2011-06-17,database.xlsx
-no card list,ja,Red Collection,BW2,2011-07-15,database.xlsx
+no card list,ja,Red Collection,BW2,2011-07-15,"database.xlsx,tcgdex"
 no card list,ja,Beginning Set +,HS,2011-08-05,database.xlsx
 no card list,ja,Hail Blizzard,BW3-Bh,2011-09-16,database.xlsx
 no card list,ja,Psycho Drive,BW3-Bp,2011-09-16,database.xlsx
+no card list,ja,サイコドライブ,BW3a,2011-09-16,tcgdex
 no card list,ja,Reshiram-EX Battle Strength Deck,BKR,2011-10-21,database.xlsx
 no card list,ja,Zekrom-EX Battle Strength Deck,BKZ,2011-10-21,database.xlsx
 no card list,ja,Beginning Set Pikachu,HSP,2011-11-18,database.xlsx
 no card list,ja,Thundurus vs Tornadus Battle Gift Set,BGS,2011-11-18,database.xlsx
-no card list,ja,Dark Rush,BW4,2011-12-16,database.xlsx
-no card list,ja,Dragon Selection,DS,2012-01-27,database.xlsx
+no card list,ja,Dark Rush,BW4,2011-12-16,"database.xlsx,tcgdex"
+no card list,ja,Dragon Selection,DS,2012-01-27,"database.xlsx,tcgdex"
 no card list,ja,Dragon Blade,BW5-Brn,2012-03-16,database.xlsx
 no card list,ja,Dragon Blast,BW5-Brz,2012-03-16,database.xlsx
 no card list,ja,Garchomp Half Deck,GBR,2012-03-16,database.xlsx
 no card list,ja,Hydreigon Half Deck,SZD,2012-03-16,database.xlsx
+no card list,ja,リューズブラスト,BW5a,2012-03-16,tcgdex
+no card list,ja,リューノブレード,BW5b,2012-03-16,tcgdex
 no card list,ja,Keldeo Battle Strength Deck,KLD,2012-04-20,database.xlsx
 no card list,ja,National Beginning Set,HSZ,2012-04-20,database.xlsx
 no card list,ja,Cold Flare,BW6-Bc,2012-07-13,database.xlsx
 no card list,ja,Freeze Bolt,BW6-Bf,2012-07-13,database.xlsx
+no card list,ja,フリーズボルト,BW6a,2012-07-13,tcgdex
+no card list,ja,コールドフレア,BW6b,2012-07-13,tcgdex
 no card list,ja,Master Deck Build Box EX,MDB,2012-09-14,database.xlsx
-no card list,ja,Plasma Gale,BW7,2012-09-14,database.xlsx
+no card list,ja,Plasma Gale,BW7,2012-09-14,"database.xlsx,tcgdex"
 no card list,ja,Team Plasma Powered Half Deck,PPD,2012-09-14,database.xlsx
 no card list,ja,Black Kyurem-EX Battle Strength Deck,BKB,2012-10-19,database.xlsx
 no card list,ja,White Kyurem-EX Battle Strength Deck,BKW,2012-10-19,database.xlsx
@@ -550,10 +559,10 @@ no card list,ja,Everyone's Exciting Battle,WAK,2012-11-16,database.xlsx
 no card list,ja,Team Plasma Battle Gift Set,PBG,2012-11-16,database.xlsx
 no card list,ja,Spiral Force,BW8-Brf,2012-12-14,database.xlsx
 no card list,ja,Thunder Knuckle,BW8-Brn,2012-12-14,database.xlsx
-no card list,ja,Shiny Collection,SC,2013-02-01,database.xlsx
+no card list,ja,Shiny Collection,SC,2013-02-01,"database.xlsx,tcgdex"
 no card list,ja,Blastoise + Kyurem-EX Combo Deck,K,2013-03-15,database.xlsx
-no card list,ja,Megalo Cannon,BW9,2013-03-15,database.xlsx
-no card list,ja,EX Battle Boost,EBB,2013-07-13,database.xlsx
+no card list,ja,Megalo Cannon,BW9,2013-03-15,"database.xlsx,tcgdex"
+no card list,ja,EX Battle Boost,EBB,2013-07-13,"database.xlsx,tcgdex"
 no card list,ja,Mewtwo vs Genesect Deck Kit (Genesect),MG,2013-07-13,database.xlsx
 no card list,ja,Mewtwo vs Genesect Deck Kit (Mewtwo),MG,2013-07-13,database.xlsx
 no card list,ja,XY Beginning Set,HXY,2013-11-08,database.xlsx
@@ -642,7 +651,6 @@ no card list,ja,Shiny Star V,S4a,2020-11-20,"database.xlsx,tcgdex"
 no card list,ja,Blastoise Starter Set VMAX,SEK,2020-12-04,database.xlsx
 no card list,ja,Charizard Starter Set VMAX 2,SC2,2020-12-04,database.xlsx
 no card list,ja,Venusaur Starter Set VMAX,SEF,2020-12-04,database.xlsx
-no card list,ja,Rapid Strike Master,S5R,2021-01-22,"database.xlsx,tcgdex"
 no card list,ja,Single Strike & Rapid Strike Premium Trainer Boxes,SF,2021-01-22,database.xlsx
 no card list,ja,Matchless Fighters,S5a,2021-03-19,"database.xlsx,tcgdex"
 no card list,ja,Silver Lance & Jet-Black Spirit Jumbo Pack Set,SP3,2021-04-23,database.xlsx
@@ -677,7 +685,6 @@ no card list,ja,Pikachu ex & Pawmot Starter Set ex,SVC,2023-03-24,database.xlsx
 no card list,ja,ex Special Set,SVP1,2023-05-19,database.xlsx
 no card list,ja,ex Starter Decks,SVD,2023-07-07,database.xlsx
 no card list,ja,Ruler of the Black Flame Deck Build Box,SVF,2023-07-28,database.xlsx
-no card list,ja,World Championships 2023 Yokohama Deck: Pikachu,WCS23,2023-07-28,database.xlsx
 no card list,ja,Mewtwo ex Starter Set Terastal,SVEM,2023-09-22,database.xlsx
 no card list,ja,Skeledirge ex Starter Set Terastal,SVEL,2023-09-22,database.xlsx
 no card list,ja,Pokémon TCG Classic (Blastoise),CLK,2023-10-31,database.xlsx
@@ -716,8 +723,6 @@ no card list,ja,Start Deck 100 Battle Collection CoroCiao Version,MP1,2025-12-19
 no card list,ja,Eevee ex Starter Set ex,MEE,2026-07-31,database.xlsx
 no card list,ja,Sprigatito & Meowscarada ex Starter Set ex,MEM,2026-07-31,database.xlsx
 no card list,ja,Zorua & Zoroark ex Starter Set ex,MEZ,2026-07-31,database.xlsx
-no card list,ja,30th Celebration,M6a,2026-09-16,database.xlsx
-no card list,ja,30th Celebration Premium Deck Set - Espeon & Umbreon,MF,2026-09-16,database.xlsx
 no card list,ja,Sword & Shield Promos,SP,,database.xlsx
 no card list,ja,Sun & Moon Promos,SMP,,database.xlsx
 no card list,ja,XY Promos,XYP,,database.xlsx
