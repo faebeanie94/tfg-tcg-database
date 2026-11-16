@@ -51,12 +51,13 @@ Pokémon TCG,German,Königliche Siege,,NVI,,,,2011,2011-11-16,Schwarz & Weiß,10
 Pokémon TCG,German,Kommende Schicksale,,NXD,,,,2012,2012-02-08,Schwarz & Weiß,99,103,tcgdex
 Pokémon TCG,German,Erforscher der Finsternis,,DEX,,,,2012,2012-05-09,Schwarz & Weiß,108,111,tcgdex
 Pokémon TCG,German,Hoheit der Drachen,,DRX,,,,2012,2012-08-15,Schwarz & Weiß,124,128,tcgdex
-Pokémon TCG,German,Drachengruft,,DRV,,,,2012,2012-10-05,Schwarz & Weiß,20,0,tcgdex
+Pokémon TCG,German,Drachengruft,,DRV,,,,2012,2012-10-05,Schwarz & Weiß,20,21,tcgdex
 Pokémon TCG,German,Überschrittene Schwellen,,BCR,,,,2012,2012-11-07,Schwarz & Weiß,149,153,tcgdex
 Pokémon TCG,German,Plasma-Sturm,,PLS,,,,2013,2013-02-06,Schwarz & Weiß,135,138,tcgdex
 Pokémon TCG,German,Plasma-Frost,,PLF,,,,2013,2013-05-08,Schwarz & Weiß,116,122,tcgdex
 Pokémon TCG,German,Plasma-Blaster,,PLB,,,,2013,2013-08-14,Schwarz & Weiß,101,105,tcgdex
 Pokémon TCG,German,XY Promokarten,,XYP,,,,2013,2013-10-12,XY,211,0,tcgdex
+Pokémon TCG,German,Legendäre Schätze,,LTR,,,,2013,2013-11-06,Schwarz & Weiß,113,131,tcgdex
 Pokémon TCG,German,Willkommen in Kalos,,KSS,,,,2013,2013-11-08,XY,39,39,tcgdex
 Pokémon TCG,German,Gelbes-A-Alternativkarten,,xya,,,,2014,2014-02-05,XY,6,0,tcgdex
 Pokémon TCG,German,XY,,XY,,,,2014,2014-02-05,XY,146,146,tcgdex
@@ -561,11 +562,11 @@ Pokémon TCG,Spanish,Frente Tormentoso,,SF,,,,2008,2008-11-01,Diamante & Perla,1
 Pokémon TCG,Spanish,Platino,,PL,,,,2009,2009-02-11,Platino,127,0,tcgdex
 Pokémon TCG,Spanish,Arceus,,AR,,,,2009,2009-11-04,Platino,99,0,tcgdex
 Pokémon TCG,Spanish,Pokémon Rumble,,RM,,,,2009,2009-12-02,Platino,16,0,tcgdex
-Pokémon TCG,Spanish,HeartGold SoulSilver,,HS,,,,2010,2010-02-10,HeartGold SoulSilver,123,0,tcgdex
+Pokémon TCG,Spanish,HeartGold SoulSilver,,HS,,,,2010,2010-02-10,HeartGold SoulSilver,123,95,tcgdex
 Pokémon TCG,Spanish,HGSS Black Star Promos,,hgssp,,,,2010,2010-02-11,HeartGold SoulSilver,25,0,tcgdex
 Pokémon TCG,Spanish,Kit de Entrenador HeatGold & SoulSilver (Gyarados),,TK4G,,,,2010,2010-05-01,Kits de Entrenador,30,0,tcgdex
 Pokémon TCG,Spanish,Kit de Entrenador HeatGold & SoulSilver (Raichu),,TK4R,,,,2010,2010-05-01,Kits de Entrenador,30,0,tcgdex
-Pokémon TCG,Spanish,Liberados,,UL,,,,2010,2010-05-12,HeartGold SoulSilver,95,0,tcgdex
+Pokémon TCG,Spanish,Liberados,,UL,,,,2010,2010-05-12,HeartGold SoulSilver,95,76,tcgdex
 Pokémon TCG,Spanish,Negro y Blanco,,BLW,,,,2011,2011-04-25,Negro y Blanco,114,115,tcgdex
 Pokémon TCG,Spanish,NB Promo,,BWP,,,,2011,2011-04-26,Negro y Blanco,101,0,tcgdex
 Pokémon TCG,Spanish,Colección de McDonald's 2011,,MCD11,,,,2011,2011-06-17,Colección de McDonald's,12,0,tcgdex
@@ -1370,6 +1371,7 @@ Pokémon TCG,Japanese,Beginning Set +,Beginning Set +,HS,,,,2011,2011-08-05,Blac
 Pokémon TCG,Japanese,Hail Blizzard,Hail Blizzard,BW3-Bh,,,,2011,2011-09-16,Black & White Era,,0,database.xlsx
 Pokémon TCG,Japanese,Psycho Drive,Psycho Drive,BW3-Bp,,,,2011,2011-09-16,Black & White Era,,0,database.xlsx
 Pokémon TCG,Japanese,サイコドライブ,,BW3a,,,,2011,2011-09-16,BW,52,0,tcgdex
+Pokémon TCG,Japanese,ヘイルブリザード,,BW3b,,,,2011,2011-09-16,BW,52,0,tcgdex
 Pokémon TCG,Japanese,Reshiram-EX Battle Strength Deck,Reshiram-EX Battle Strength Deck,BKR,,,,2011,2011-10-21,Black & White Era,,0,database.xlsx
 Pokémon TCG,Japanese,Zekrom-EX Battle Strength Deck,Zekrom-EX Battle Strength Deck,BKZ,,,,2011,2011-10-21,Black & White Era,,0,database.xlsx
 Pokémon TCG,Japanese,Beginning Set Pikachu,Beginning Set Pikachu,HSP,,,,2011,2011-11-18,Black & White Era,,0,database.xlsx
@@ -1397,6 +1399,7 @@ Pokémon TCG,Japanese,Everyone's Exciting Battle,Everyone's Exciting Battle,WAK,
 Pokémon TCG,Japanese,Team Plasma Battle Gift Set,Team Plasma Battle Gift Set,PBG,,,,2012,2012-11-16,Black & White Era,,0,database.xlsx
 Pokémon TCG,Japanese,Spiral Force,Spiral Force,BW8-Brf,,,,2012,2012-12-14,Black & White Era,,0,database.xlsx
 Pokémon TCG,Japanese,Thunder Knuckle,Thunder Knuckle,BW8-Brn,,,,2012,2012-12-14,Black & White Era,,0,database.xlsx
+Pokémon TCG,Japanese,ライデンナックル,,BW8b,,,,2012,2012-12-14,BW,51,0,tcgdex
 Pokémon TCG,Japanese,ラセンフォース,,BW8a,,,,2012,2012-12-14,BW,51,58,tcgdex
 Pokémon TCG,Japanese,シャイニーコレクション,Shiny Collection,SC,,,,2013,2013-02-01,Black & White Era,20,0,"database.xlsx,tcgdex"
 Pokémon TCG,Japanese,Blastoise + Kyurem-EX Combo Deck,Blastoise + Kyurem-EX Combo Deck,K,,,,2013,2013-03-15,Black & White Era,,0,database.xlsx
